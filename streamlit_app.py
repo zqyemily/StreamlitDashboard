@@ -2,8 +2,7 @@ import streamlit as st
 
 st.set_page_config(layout="wide")
 
-st.title('How to layout your Streamlit app')
-
+st.title('layout')
 with st.expander('About this app'):
   st.write('This app shows the various ways on how you can layout your Streamlit app.')
   st.image('https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png', width=250)
