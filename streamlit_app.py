@@ -1,30 +1,38 @@
 import streamlit as st
+import numpy as np
+import pandas as pd
+from time import time
 
-st.title('st.experimental_get_query_params')
+st.title('st.cache')
 
-with st.expander('About this app'):
-  st.write("`st.experimental_get_query_params` allows the retrieval of query parameters directly from the URL of the user's browser.")
+# Using cache
+a0 = time()
+st.subheader('Using st.cache')
 
-# 1. Instructions
-st.header('1. Instructions')
-st.markdown('''
-In the above URL bar of your internet browser, append the following:
-`?firstname=Jack&surname=Beanstalk`
-after the base URL `http://share.streamlit.io/dataprofessor/st.experimental_get_query_params/`
-such that it becomes 
-`http://share.streamlit.io/dataprofessor/st.experimental_get_query_params/?firstname=Jack&surname=Beanstalk`
-''')
+@st.cache(suppress_st_warning=True)
+def load_data_a():
+  df = pd.DataFrame(
+    np.random.rand(2000000, 5),
+    columns=['a', 'b', 'c', 'd', 'e']
+  )
+  return df
 
-
-# 2. Contents of st.experimental_get_query_params
-st.header('2. Contents of st.experimental_get_query_params')
-st.write(st.experimental_get_query_params())
+st.write(load_data_a())
+a1 = time()
+st.info(a1-a0)
 
 
-# 3. Retrieving and displaying information from the URL
-st.header('3. Retrieving and displaying information from the URL')
+# Not using cache
+b0 = time()
+st.subheader('Not using st.cache')
 
-firstname = st.experimental_get_query_params()['firstname'][0]
-surname = st.experimental_get_query_params()['surname'][0]
+def load_data_b():
+  df = pd.DataFrame(
+    np.random.rand(2000000, 5),
+    columns=['a', 'b', 'c', 'd', 'e']
+  )
+  return df
 
-st.write(f'Hello **{firstname} {surname}**, how are you?')
+st.write(load_data_b())
+b1 = time()
+st.info(b1-b0)
