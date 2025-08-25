@@ -90,4 +90,4 @@ order by C.Name, A.TaskDate
 df = get_df_from_db(sql_picox,server = server_prod, database = database_prod,username = username_prod,password = password_prod)
 df = df.sort_values(by = ['Analyst_Name','Date'])
 df = df.rename(columns = {'Analyst_Name':'Analyst Name', 'Brief_Name':'Brief Name'})
-df.to_excel(os.path.join(output_path,'Pico_X_claim_data.xlsx'),index = False)
+df.to_csv(os.path.join(output_path,'Pico_X_claim_data.csv'),index = False, encoding='utf-8')

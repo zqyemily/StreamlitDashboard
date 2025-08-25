@@ -11,7 +11,7 @@ st.set_page_config(page_title='The Usage Dashboard of Pico Queue for Pico X', la
 
 def update_data():
     subprocess.run(["python", "data_downloader.py"])
-    temp = pd.read_excel('data/Pico_X_claim_data.xlsx')
+    temp = pd.read_csv('data/Pico_X_claim_data.csv')
     print(temp.Date.max())
     
 st.button('Just do it!', on_click=update_data)
