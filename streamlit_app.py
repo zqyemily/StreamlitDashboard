@@ -1,18 +1,11 @@
 import streamlit as st
+import pandas as pd
+import ydata_profiling
+from streamlit_pandas_profiling import st_profile_report
 
-st.header('st.checkbox')
+st.header('`streamlit_pandas_profiling`')
 
-st.write ('What would you like to order?')
+df = pd.read_csv('https://raw.githubusercontent.com/dataprofessor/data/master/penguins_cleaned.csv')
 
-icecream = st.checkbox('Ice cream')
-coffee = st.checkbox('Coffee')
-cola = st.checkbox('Cola')
-
-if icecream:
-     st.write("Great! Here's some more 🍦")
-
-if coffee: 
-     st.write("Okay, here's some coffee ☕")
-
-if cola:
-     st.write("Here you go 🥤")
+pr = df.profile_report()
+st_profile_report(pr)
