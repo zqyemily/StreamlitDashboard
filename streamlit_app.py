@@ -10,7 +10,7 @@ import subprocess
 st.set_page_config(page_title='The Usage Dashboard of Pico Queue for Pico X', layout='wide')
 
 def update_data():
-    subprocess.run(["python", "data_downloader.py"])
+    subprocess.run(["C:/Users/qiany/anaconda3/envs/stenv/python.exe", "data_downloader.py"])
     temp = pd.read_csv('data/Pico_X_claim_data.csv', encoding='utf-8', sep = "|")
     print(temp.Date.max())
     
