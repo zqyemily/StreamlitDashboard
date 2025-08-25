@@ -3,11 +3,11 @@ import altair as alt
 import pandas as pd
 import streamlit as st
 
-st.header('st.write')
+st.header('pico x dashboard')
 
 # Example 1
 
-st.write('Hello, *World!* :sunglasses:')
+st.write('pico x *dashboard* :sunglasses:')
 
 # Example 2
 
