@@ -1,0 +1,5 @@
+[theme]
+primaryColor = "#1cc7b1"
+backgroundColor = "white"
+textColor = "#000000"
+baseRadius="full"
