@@ -1,4 +1,5 @@
 import streamlit as st
+import sys
 import pandas as pd
 import numpy as np
 import string
@@ -91,3 +92,4 @@ df = get_df_from_db(sql_picox,server = server_prod, database = database_prod,use
 df = df.sort_values(by = ['Analyst_Name','Date'])
 df = df.rename(columns = {'Analyst_Name':'Analyst Name', 'Brief_Name':'Brief Name'})
 df.to_csv(os.path.join(output_path,'Pico_X_claim_data.csv'), encoding='utf-8', sep = "|", index=False)
+
