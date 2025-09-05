@@ -107,4 +107,5 @@ where A.OfficeID in ('sem','she') and A.Status = 3 and A.IsDelete = 0
 df_brief = get_df_from_db(sql,server = server_prod, database = database_prod,username = username_prod,password = password_prod)
 df_brief['Team_Leader'] = df_brief['TeamCode'].apply(lambda x: Team_Mapping[x])
 df_brief['ProjectNature'] = df_brief['ProjectNature'].apply(lambda x: 'Special Design' if x == 'Special Design 特别设计' else x)
+df_brief['BidStatus'] = df_brief['BidStatus'].apply(lambda x: 'unknown' if pd.isna(x)  else x)
 df_brief.to_csv(os.path.join(output_path,'designer_brief_data.csv'), encoding='utf-8', sep = "|", index=False)
