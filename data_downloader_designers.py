@@ -109,3 +109,5 @@ df_brief['Team_Leader'] = df_brief['TeamCode'].apply(lambda x: Team_Mapping[x])
 df_brief['ProjectNature'] = df_brief['ProjectNature'].apply(lambda x: 'Special Design' if x == 'Special Design 特别设计' else x)
 df_brief['BidStatus'] = df_brief['BidStatus'].apply(lambda x: 'unknown' if pd.isna(x)  else x)
 df_brief.to_csv(os.path.join(output_path,'designer_brief_data.csv'), encoding='utf-8', sep = "|", index=False)
+
+

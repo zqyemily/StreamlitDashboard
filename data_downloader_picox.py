@@ -93,3 +93,5 @@ df = df.sort_values(by = ['Analyst_Name','Date'])
 df = df.rename(columns = {'Analyst_Name':'Analyst Name', 'Brief_Name':'Brief Name'})
 df.to_csv(os.path.join(output_path,'Pico_X_claim_data.csv'), encoding='utf-8', sep = "|", index=False)
 
+st.sidebar.page_link("home.py", label="Home", icon="🏠")
+
