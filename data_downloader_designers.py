@@ -77,6 +77,7 @@ where A.Content in (1,2) and G.TypeID = 23 and A.OfficeID in ('sem','she')
 
 df_claim = get_df_from_db(sql,server = server_prod, database = database_prod,username = username_prod,password = password_prod)
 df_claim['Team_Leader'] = df_claim['TeamCode'].apply(lambda x: Team_Mapping[x])
+df_claim['TeamCode'] = df_claim['TeamCode'].apply(lambda x: 'CAD-Project' if x == 'CAD-Porject' else x)
 df_claim.to_csv(os.path.join(output_path,'designer_claim_data.csv'), encoding='utf-8', sep = "|", index=False)
 
 sql = '''
@@ -108,6 +109,7 @@ df_brief = get_df_from_db(sql,server = server_prod, database = database_prod,use
 df_brief['Team_Leader'] = df_brief['TeamCode'].apply(lambda x: Team_Mapping[x])
 df_brief['ProjectNature'] = df_brief['ProjectNature'].apply(lambda x: 'Special Design' if x == 'Special Design 特别设计' else x)
 df_brief['BidStatus'] = df_brief['BidStatus'].apply(lambda x: 'unknown' if pd.isna(x)  else x)
+df_brief['TeamCode'] = df_brief['TeamCode'].apply(lambda x: 'CAD-Project' if x == 'CAD-Porject' else x)
 df_brief.to_csv(os.path.join(output_path,'designer_brief_data.csv'), encoding='utf-8', sep = "|", index=False)
 
 

@@ -22,7 +22,7 @@ last_friday_date = last_monday_date + datetime.timedelta(days=4)
 st.image('img/pico queue logo.png', width=300)
 st.title('The Usage Dashboard of Pico Queue for Pico X')
 st.markdown(f'You logged in at {datetime.datetime.now(pytz.timezone("Asia/Shanghai")).strftime("%Y-%m-%d")}')
-st.markdown(f'The default data shown in this page are from last {last_monday_date.strftime("%Y-%m-%d")} to {last_friday_date.strftime("%Y-%m-%d")}')
+# st.markdown(f'The default data shown in this page are from last {last_monday_date.strftime("%Y-%m-%d")} to {last_friday_date.strftime("%Y-%m-%d")}')
 def update_data():
     subprocess.run(["C:/Users/qiany/anaconda3/envs/stenv/python.exe", "data_downloader_picox.py"])
     df = pd.read_csv('data/Pico_X_claim_data.csv', encoding='utf-8', sep = "|")

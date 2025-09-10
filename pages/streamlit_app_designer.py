@@ -24,7 +24,7 @@ last_friday_date = last_monday_date + datetime.timedelta(days=4)
 st.image('img/pico queue logo.png', width=300)
 st.title('The Usage Dashboard of Pico Shanghai')
 st.markdown(f'You logged in at {datetime.datetime.now(pytz.timezone("Asia/Shanghai")).strftime("%Y-%m-%d")}')
-st.markdown(f'The default data shown in this page are from {last_monday_date.strftime("%Y-%m-%d")} to Friday {last_friday_date.strftime("%Y-%m-%d")}')
+# st.markdown(f'The default data shown in this page are from {last_monday_date.strftime("%Y-%m-%d")} to Friday {last_friday_date.strftime("%Y-%m-%d")}')
 def update_data():
     subprocess.run(["C:/Users/qiany/anaconda3/envs/stenv/python.exe", "data_downloader_designers.py"])
     df_claim = pd.read_csv('data/designer_claim_data.csv', encoding='utf-8', sep = "|")
@@ -55,13 +55,30 @@ date_range = st.sidebar.date_input('Select date range',
     min_value=pd.to_datetime(df_Brief['BriefCreationTime'].min()),
     max_value=pd.to_datetime(df_Brief['BriefCreationTime'].max())
     )
-Team_Leader = st.sidebar.multiselect('Select Team Leaders', df_Brief['Team_Leader'].unique(), default=df_Brief['Team_Leader'].unique())
 ProjectStatus = st.sidebar.multiselect('Select Project Bidding Status', df_Brief['BidStatus'].unique(), default=df_Brief['BidStatus'].unique())
+Team_Leader = st.sidebar.multiselect('Select Team Leaders', df_Brief['Team_Leader'].unique(), default=df_Brief['Team_Leader'].unique())
 st.markdown(f'You selected date from {date_range[0].strftime("%Y-%m-%d")} to {date_range[1].strftime("%Y-%m-%d")}')
+if Team_Leader == ['Max Liu']:
+    Team = st.sidebar.multiselect('select Team', ['3D-B','3D-A','2D-C','Planner','CAD-Project'], default=['3D-B','3D-A','2D-C','Planner','CAD-Project'])
+elif Team_Leader == ['Summer Xia']:
+    Team = st.sidebar.multiselect('select Team', ['ST'], default=['ST'])
+elif Team_Leader == ['大海']:
+    Team = st.sidebar.multiselect('select Team', ['Hi-Studio'], default=['Hi-Studio'])
+elif Team_Leader == ['Max Liu','Summer Xia']:
+    Team = st.sidebar.multiselect('select Team', ['3D-B','3D-A','2D-C','Planner','CAD-Project','ST'], default=['3D-B','3D-A','2D-C','Planner','CAD-Project','ST'])
+elif Team_Leader == ['Max Liu','大海']:
+    Team = st.sidebar.multiselect('select Team', ['3D-B','3D-A','2D-C','Planner','CAD-Project','Hi-Studio'], default=['3D-B','3D-A','2D-C','Planner','CAD-Project','Hi-Studio'])
+elif Team_Leader == ['Summer Xia','大海']:
+    Team = st.sidebar.multiselect('select Team', ['ST','Hi-Studio'], default=['ST','Hi-Studio'])
+elif Team_Leader == ['Max Liu','Summer Xia','大海']:
+    Team = st.sidebar.multiselect('select Team', ['3D-B','3D-A','2D-C','Planner','CAD-Project','ST','Hi-Studio'], default=['3D-B','3D-A','2D-C','Planner','CAD-Project','ST','Hi-Studio'])
+else:
+    Team = st.sidebar.multiselect('select Team', df_Brief['TeamCode'].unique(), default=df_Brief['TeamCode'].unique())
+   
 
 
 
-filtered_df = df_Brief[df_Brief['Team_Leader'].isin(Team_Leader)&(df_Brief['BriefCreationTime']>=date_range[0].strftime("%Y-%m-%d"))&(df_Brief['BriefCreationTime']<=date_range[1].strftime("%Y-%m-%d"))&(df_Brief['BidStatus'].isin(ProjectStatus))]
+filtered_df = df_Brief[df_Brief['Team_Leader'].isin(Team_Leader)&(df_Brief['TeamCode'].isin(Team))&(df_Brief['BriefCreationTime']>=date_range[0].strftime("%Y-%m-%d"))&(df_Brief['BriefCreationTime']<=date_range[1].strftime("%Y-%m-%d"))&(df_Brief['BidStatus'].isin(ProjectStatus))]
 days_selected = (date_range[1] - date_range[0]).days + 1
 compare_first_date = date_range[0] - datetime.timedelta(days=days_selected)
 compare_last_date = date_range[1] - datetime.timedelta(days=days_selected)

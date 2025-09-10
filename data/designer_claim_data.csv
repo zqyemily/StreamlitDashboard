@@ -3,9 +3,6 @@ TaskDate|WorkHours|ProjectID|ProjectName|OfficeID|TeamCode|GroupName|DesignTypeN
 2025-08-18|1.00|ST2450470-001|第二十七届亚洲宠物展览会|she|ST|默认组|主场设计师|Summer Xia |summer.xia@pico.com|时薪|0.00|Summer Xia
 2025-08-18|2.00|ST2450448-001|2025亚洲国际鲜果生蔬展览会|she|ST|默认组|主场设计师|Summer Xia |summer.xia@pico.com|时薪|0.00|Summer Xia
 2025-08-18|1.00|ST2450644-001|中国国际橡胶展 2025|she|ST|默认组|主场设计师|Summer Xia |summer.xia@pico.com|时薪|0.00|Summer Xia
-2025-08-04|8.00|IH2559333-001|联影-CR expo|sem|3D-B|默认组|3D-JEFF|Jeff Wang |jeff.wang@pico.com|时薪|0.00|Max Liu
-2025-08-05|4.50|IH2559333-001|联影-CR expo|sem|3D-B|默认组|3D-JEFF|Jeff Wang |jeff.wang@pico.com|时薪|0.00|Max Liu
-2025-08-14|9.00|IH2559333-001|联影-CR expo|sem|3D-B|默认组|3D-JEFF|Jeff Wang |jeff.wang@pico.com|时薪|0.00|Max Liu
 2025-08-11|2.50|PHF2557028-001|brembo-重庆摩展|sem|3D-B|默认组|3D-JEFF|Jeff Wang |jeff.wang@pico.com|时薪|0.00|Max Liu
 2025-08-06|5.00|PHF2557028-001|brembo-重庆摩展|sem|3D-B|默认组|3D-JEFF|Jeff Wang |jeff.wang@pico.com|时薪|0.00|Max Liu
 2025-08-12|4.00|PHF2557028-001|brembo-重庆摩展|sem|3D-B|默认组|3D-JEFF|Jeff Wang |jeff.wang@pico.com|时薪|0.00|Max Liu
@@ -42,6 +39,9 @@ TaskDate|WorkHours|ProjectID|ProjectName|OfficeID|TeamCode|GroupName|DesignTypeN
 2025-09-01|4.50|PHC2558653-001|杜邦-CIIE 2025|sem|3D-B|默认组|3D-JEFF|Jeff Wang |jeff.wang@pico.com|时薪|0.00|Max Liu
 2025-08-27|9.00|PHC2558653-001|杜邦-CIIE 2025|sem|3D-B|默认组|3D-JEFF|Jeff Wang |jeff.wang@pico.com|时薪|0.00|Max Liu
 2025-08-26|9.00|PHC2558653-001|杜邦-CIIE 2025|sem|3D-B|默认组|3D-JEFF|Jeff Wang |jeff.wang@pico.com|时薪|0.00|Max Liu
+2025-08-04|8.00|IH2559333-001|联影-CR expo|sem|3D-B|默认组|3D-JEFF|Jeff Wang |jeff.wang@pico.com|时薪|0.00|Max Liu
+2025-08-05|4.50|IH2559333-001|联影-CR expo|sem|3D-B|默认组|3D-JEFF|Jeff Wang |jeff.wang@pico.com|时薪|0.00|Max Liu
+2025-08-14|9.00|IH2559333-001|联影-CR expo|sem|3D-B|默认组|3D-JEFF|Jeff Wang |jeff.wang@pico.com|时薪|0.00|Max Liu
 2025-09-04|2.50|PHA2552865-001|Yonex-2025店铺互动屏|sem|Planner|默认组|Planner|Light Chen |light.chen@pico.com|时薪|330.00|Max Liu
 2025-09-01|2.50|PHA2552865-001|Yonex-2025店铺互动屏|sem|Planner|默认组|Planner|Light Chen |light.chen@pico.com|时薪|330.00|Max Liu
 2025-08-18|3.00|PHA2552865-001|Yonex-2025店铺互动屏|sem|Planner|默认组|Planner|Light Chen |light.chen@pico.com|时薪|330.00|Max Liu
@@ -57,66 +57,71 @@ TaskDate|WorkHours|ProjectID|ProjectName|OfficeID|TeamCode|GroupName|DesignTypeN
 2025-09-05|2.50|PHA2559799-999|香格里拉-虹桥开业典礼|sem|Planner|默认组|Planner|Light Chen |light.chen@pico.com|时薪|330.00|Max Liu
 2025-09-03|3.50|PHA2559799-999|香格里拉-虹桥开业典礼|sem|Planner|默认组|Planner|Light Chen |light.chen@pico.com|时薪|330.00|Max Liu
 2025-09-01|2.50|PHA2559799-999|香格里拉-虹桥开业典礼|sem|Planner|默认组|Planner|Light Chen |light.chen@pico.com|时薪|330.00|Max Liu
+2025-08-05|2.17|IH2559333-001|联影-CR expo|sem|Planner|默认组|Planner|Light Chen |light.chen@pico.com|时薪|330.00|Max Liu
 2025-08-08|3.00|SO2558976-999|2025海立销售大会|sem|Planner|默认组|Planner|Light Chen |light.chen@pico.com|时薪|330.00|Max Liu
 2025-08-07|1.50|SO2559139-999|Grand Opening Ceremony of Maersk Shanghai Lin-Gang Flagship|sem|Planner|默认组|Planner|Light Chen |light.chen@pico.com|时薪|330.00|Max Liu
-2025-08-05|2.17|IH2559333-001|联影-CR expo|sem|Planner|默认组|Planner|Light Chen |light.chen@pico.com|时薪|330.00|Max Liu
-2025-09-04|3.08|SE2559937-001|Hiwin@IAS 2025（制作部分）|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-09-05|3.08|SE2559937-001|Hiwin@IAS 2025（制作部分）|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-09-02|1.00|PHE2557290-001|德默菲-工厂开业活动|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-29|3.00|SE2553358-001|2507咪咕VR展厅|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-07|14.92|SO2558976-999|2025海立销售大会|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-08|6.00|SO2558976-999|2025海立销售大会|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-08|6.00|SO2558976-999|2025海立销售大会|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-13|3.50|SO2553131-001|2025秋季面料展 - 可持续发展区|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-13|10.00|IH2558663-001|ebm-Semicon TW|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-14|3.50|IH2558663-001|ebm-Semicon TW|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-15|1.50|IH2558663-001|ebm-Semicon TW|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-19|6.50|PHA2556967-001|GITI-合肥工厂开幕|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-20|7.00|PHA2556967-001|GITI-合肥工厂开幕|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-27|12.00|PHA2556967-001|GITI-合肥工厂开幕|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-28|8.50|PHA2556967-001|GITI-合肥工厂开幕|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-28|4.00|PHA2556967-001|GITI-合肥工厂开幕|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-29|5.50|PHA2556967-001|GITI-合肥工厂开幕|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-09-01|3.00|PHA2556967-001|GITI-合肥工厂开幕|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-09-01|2.17|PHA2556967-001|GITI-合肥工厂开幕|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-09-02|3.00|PHA2556967-001|GITI-合肥工厂开幕|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-09-03|8.50|PHA2556967-001|GITI-合肥工厂开幕|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-09-04|5.33|PHA2556967-001|GITI-合肥工厂开幕|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-09-05|5.42|PHA2556967-001|GITI-合肥工厂开幕|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-12|14.50|IH2559333-001|联影-CR expo|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-19|2.00|IH2559333-001|联影-CR expo|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-20|1.50|IH2559333-001|联影-CR expo|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-09-01|1.50|IH2559333-001|联影-CR expo|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-11|5.50|PHF2557028-001|brembo-重庆摩展|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-14|11.42|PHF2557028-001|brembo-重庆摩展|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-15|7.00|PHF2557028-001|brembo-重庆摩展|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-18|3.00|PHF2557028-001|brembo-重庆摩展|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-22|5.50|PHF2557028-001|brembo-重庆摩展|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-25|2.00|PHF2557028-001|brembo-重庆摩展|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-26|3.50|PHF2557028-001|brembo-重庆摩展|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-09-01|1.00|PHF2557028-001|brembo-重庆摩展|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-09-01|2.00|PHF2557028-001|brembo-重庆摩展|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-05|4.50|PHE2333983-001|良信-超级工厂模块化设计费|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-09-02|3.50|PHE2333983-001|良信-超级工厂模块化设计费|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-07-28|8.50|SE2553358-001|2507咪咕VR展厅|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-07-29|8.50|Generic-SW|Generic-SW|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-07-31|8.50|Generic-SW|Generic-SW|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-08|2.50|Generic-SW|Generic-SW|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-11|3.00|Generic-SW|Generic-SW|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-18|5.50|Generic-SW|Generic-SW|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-21|8.50|Generic-SW|Generic-SW|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-22|6.50|Generic-SW|Generic-SW|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-23|7.00|Generic-SW|Generic-SW|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-24|3.83|Generic-SW|Generic-SW|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-25|6.50|Generic-SW|Generic-SW|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-26|4.25|Generic-SW|Generic-SW|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-27|1.50|Generic-SW|Generic-SW|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-07-30|8.50|Generic-SW|Generic-SW|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-01|8.50|PHE2556413-001|星巴克-装置制作|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
-2025-08-04|8.50|PHE2556413-001|星巴克-装置制作|sem|CAD-Porject|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-09-04|3.08|SE2559937-001|Hiwin@IAS 2025（制作部分）|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-09-05|3.08|SE2559937-001|Hiwin@IAS 2025（制作部分）|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-09-02|1.00|PHE2557290-001|德默菲-工厂开业活动|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-29|3.00|SE2553358-001|2507咪咕VR展厅|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-07|14.92|SO2558976-999|2025海立销售大会|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-08|6.00|SO2558976-999|2025海立销售大会|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-08|6.00|SO2558976-999|2025海立销售大会|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-13|3.50|SO2553131-001|2025秋季面料展 - 可持续发展区|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-13|10.00|IH2558663-001|ebm-Semicon TW|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-14|3.50|IH2558663-001|ebm-Semicon TW|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-15|1.50|IH2558663-001|ebm-Semicon TW|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-19|6.50|PHA2556967-001|GITI-合肥工厂开幕|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-20|7.00|PHA2556967-001|GITI-合肥工厂开幕|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-27|12.00|PHA2556967-001|GITI-合肥工厂开幕|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-28|8.50|PHA2556967-001|GITI-合肥工厂开幕|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-28|4.00|PHA2556967-001|GITI-合肥工厂开幕|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-29|5.50|PHA2556967-001|GITI-合肥工厂开幕|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-09-01|3.00|PHA2556967-001|GITI-合肥工厂开幕|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-09-01|2.17|PHA2556967-001|GITI-合肥工厂开幕|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-09-02|3.00|PHA2556967-001|GITI-合肥工厂开幕|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-09-03|8.50|PHA2556967-001|GITI-合肥工厂开幕|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-09-04|5.33|PHA2556967-001|GITI-合肥工厂开幕|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-09-05|5.42|PHA2556967-001|GITI-合肥工厂开幕|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-12|14.50|IH2559333-001|联影-CR expo|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-19|2.00|IH2559333-001|联影-CR expo|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-20|1.50|IH2559333-001|联影-CR expo|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-09-01|1.50|IH2559333-001|联影-CR expo|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-11|5.50|PHF2557028-001|brembo-重庆摩展|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-14|11.42|PHF2557028-001|brembo-重庆摩展|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-15|7.00|PHF2557028-001|brembo-重庆摩展|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-18|3.00|PHF2557028-001|brembo-重庆摩展|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-22|5.50|PHF2557028-001|brembo-重庆摩展|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-25|2.00|PHF2557028-001|brembo-重庆摩展|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-26|3.50|PHF2557028-001|brembo-重庆摩展|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-09-01|1.00|PHF2557028-001|brembo-重庆摩展|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-09-01|2.00|PHF2557028-001|brembo-重庆摩展|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-05|4.50|PHE2333983-001|良信-超级工厂模块化设计费|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-09-02|3.50|PHE2333983-001|良信-超级工厂模块化设计费|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-07-28|8.50|SE2553358-001|2507咪咕VR展厅|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-07-29|8.50|Generic-SW|Generic-SW|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-07-31|8.50|Generic-SW|Generic-SW|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-08|2.50|Generic-SW|Generic-SW|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-11|3.00|Generic-SW|Generic-SW|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-18|5.50|Generic-SW|Generic-SW|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-21|8.50|Generic-SW|Generic-SW|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-22|6.50|Generic-SW|Generic-SW|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-23|7.00|Generic-SW|Generic-SW|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-24|3.83|Generic-SW|Generic-SW|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-25|6.50|Generic-SW|Generic-SW|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-26|4.25|Generic-SW|Generic-SW|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-27|1.50|Generic-SW|Generic-SW|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-07-30|8.50|Generic-SW|Generic-SW|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-01|8.50|PHE2556413-001|星巴克-装置制作|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
+2025-08-04|8.50|PHE2556413-001|星巴克-装置制作|sem|CAD-Project|默认组|CAD|Jay Zheng |jay.zheng@pico.com|时薪|120.00|Max Liu
 2025-08-07|1.75|ST2450453-001|2025中国国际家用纺织品及辅料（秋冬）博览会|she|ST|默认组|主场设计师|Yan Jin |yan.jin@pico.com|时薪|0.00|Summer Xia
 2025-08-07|1.00|ST2450644-001|中国国际橡胶展 2025|she|ST|默认组|主场设计师|Yan Jin |yan.jin@pico.com|时薪|0.00|Summer Xia
+2025-08-07|1.50|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jingqi Lin |jingqi.lin@pico.com|时薪|0.00|Summer Xia
+2025-08-13|2.00|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jingqi Lin |jingqi.lin@pico.com|时薪|0.00|Summer Xia
 2025-08-19|1.00|ST2450644-001|中国国际橡胶展 2025|she|ST|默认组|主场设计师|Jingqi Lin |jingqi.lin@pico.com|时薪|0.00|Summer Xia
+2025-08-06|3.17|ST2450448-001|2025亚洲国际鲜果生蔬展览会|she|ST|默认组|主场设计师|Jingqi Lin |jingqi.lin@pico.com|时薪|0.00|Summer Xia
+2025-08-18|3.00|ST2450448-001|2025亚洲国际鲜果生蔬展览会|she|ST|默认组|主场设计师|Jingqi Lin |jingqi.lin@pico.com|时薪|0.00|Summer Xia
+2025-08-19|3.00|ST2450448-001|2025亚洲国际鲜果生蔬展览会|she|ST|默认组|主场设计师|Jingqi Lin |jingqi.lin@pico.com|时薪|0.00|Summer Xia
 2025-08-06|3.50|ST2450470-001|第二十七届亚洲宠物展览会|she|ST|默认组|主场设计师|Jingqi Lin |jingqi.lin@pico.com|时薪|0.00|Summer Xia
 2025-08-11|13.00|ST2450470-001|第二十七届亚洲宠物展览会|she|ST|默认组|主场设计师|Jingqi Lin |jingqi.lin@pico.com|时薪|0.00|Summer Xia
 2025-08-12|9.00|ST2450470-001|第二十七届亚洲宠物展览会|she|ST|默认组|主场设计师|Jingqi Lin |jingqi.lin@pico.com|时薪|0.00|Summer Xia
@@ -124,15 +129,17 @@ TaskDate|WorkHours|ProjectID|ProjectName|OfficeID|TeamCode|GroupName|DesignTypeN
 2025-08-14|10.00|ST2450470-001|第二十七届亚洲宠物展览会|she|ST|默认组|主场设计师|Jingqi Lin |jingqi.lin@pico.com|时薪|0.00|Summer Xia
 2025-08-15|12.92|ST2450470-001|第二十七届亚洲宠物展览会|she|ST|默认组|主场设计师|Jingqi Lin |jingqi.lin@pico.com|时薪|0.00|Summer Xia
 2025-08-16|1.00|ST2450470-001|第二十七届亚洲宠物展览会|she|ST|默认组|主场设计师|Jingqi Lin |jingqi.lin@pico.com|时薪|0.00|Summer Xia
-2025-08-06|3.17|ST2450448-001|2025亚洲国际鲜果生蔬展览会|she|ST|默认组|主场设计师|Jingqi Lin |jingqi.lin@pico.com|时薪|0.00|Summer Xia
-2025-08-18|3.00|ST2450448-001|2025亚洲国际鲜果生蔬展览会|she|ST|默认组|主场设计师|Jingqi Lin |jingqi.lin@pico.com|时薪|0.00|Summer Xia
-2025-08-19|3.00|ST2450448-001|2025亚洲国际鲜果生蔬展览会|she|ST|默认组|主场设计师|Jingqi Lin |jingqi.lin@pico.com|时薪|0.00|Summer Xia
 2025-08-18|2.00|ST2558783-001|法兰克福-AMS 2025|she|ST|默认组|主场设计师|Jingqi Lin |jingqi.lin@pico.com|时薪|0.00|Summer Xia
 2025-08-19|2.00|ST2558783-001|法兰克福-AMS 2025|she|ST|默认组|主场设计师|Jingqi Lin |jingqi.lin@pico.com|时薪|0.00|Summer Xia
 2025-08-15|1.00|ST2450644-001|中国国际橡胶展 2025|she|ST|默认组|主场设计师|Jingqi Lin |jingqi.lin@pico.com|时薪|0.00|Summer Xia
 2025-08-18|0.50|ST2450644-001|中国国际橡胶展 2025|she|ST|默认组|主场设计师|Jingqi Lin |jingqi.lin@pico.com|时薪|0.00|Summer Xia
-2025-08-07|1.50|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jingqi Lin |jingqi.lin@pico.com|时薪|0.00|Summer Xia
-2025-08-13|2.00|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jingqi Lin |jingqi.lin@pico.com|时薪|0.00|Summer Xia
+2025-08-06|1.00|ST2450657-001|Music China 2025|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
+2025-08-07|1.00|ST2450657-001|Music China 2025|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
+2025-08-12|3.00|ST2558783-001|法兰克福-AMS 2025|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
+2025-08-18|2.00|ST2558783-001|法兰克福-AMS 2025|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
+2025-08-19|3.50|ST2558783-001|法兰克福-AMS 2025|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
+2025-08-22|6.50|ST2558783-001|法兰克福-AMS 2025|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
+2025-08-29|2.00|ST2558783-001|法兰克福-AMS 2025|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
 2025-08-07|0.50|ST2450470-001|第二十七届亚洲宠物展览会|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
 2025-08-08|1.00|ST2450470-001|第二十七届亚洲宠物展览会|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
 2025-08-11|3.50|ST2450470-001|第二十七届亚洲宠物展览会|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
@@ -142,24 +149,6 @@ TaskDate|WorkHours|ProjectID|ProjectName|OfficeID|TeamCode|GroupName|DesignTypeN
 2025-08-15|4.50|ST2450470-001|第二十七届亚洲宠物展览会|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
 2025-08-18|7.92|ST2450470-001|第二十七届亚洲宠物展览会|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
 2025-08-19|1.50|ST2450470-001|第二十七届亚洲宠物展览会|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
-2025-08-12|3.00|ST2558783-001|法兰克福-AMS 2025|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
-2025-08-18|2.00|ST2558783-001|法兰克福-AMS 2025|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
-2025-08-19|3.50|ST2558783-001|法兰克福-AMS 2025|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
-2025-08-22|6.50|ST2558783-001|法兰克福-AMS 2025|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
-2025-08-29|2.00|ST2558783-001|法兰克福-AMS 2025|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
-2025-08-06|4.00|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
-2025-08-06|2.00|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
-2025-08-07|2.00|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
-2025-08-07|2.50|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
-2025-08-25|2.00|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
-2025-08-26|2.00|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
-2025-08-29|3.00|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
-2025-09-01|3.00|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
-2025-09-02|3.00|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
-2025-08-07|1.00|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
-2025-08-11|4.50|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
-2025-08-13|1.00|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
-2025-08-20|4.50|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
 2025-08-06|0.50|ST2450448-001|2025亚洲国际鲜果生蔬展览会|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
 2025-08-08|4.00|ST2450448-001|2025亚洲国际鲜果生蔬展览会|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
 2025-08-08|3.00|ST2450448-001|2025亚洲国际鲜果生蔬展览会|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
@@ -178,8 +167,6 @@ TaskDate|WorkHours|ProjectID|ProjectName|OfficeID|TeamCode|GroupName|DesignTypeN
 2025-08-21|3.50|ST2450448-001|2025亚洲国际鲜果生蔬展览会|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
 2025-08-21|4.50|ST2450448-001|2025亚洲国际鲜果生蔬展览会|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
 2025-08-22|2.00|ST2450448-001|2025亚洲国际鲜果生蔬展览会|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
-2025-08-06|1.00|ST2450657-001|Music China 2025|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
-2025-08-07|1.00|ST2450657-001|Music China 2025|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
 2025-08-07|0.50|ST2450644-001|中国国际橡胶展 2025|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
 2025-08-06|1.00|ST2450644-001|中国国际橡胶展 2025|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
 2025-08-08|0.50|ST2450644-001|中国国际橡胶展 2025|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
@@ -194,8 +181,24 @@ TaskDate|WorkHours|ProjectID|ProjectName|OfficeID|TeamCode|GroupName|DesignTypeN
 2025-08-26|3.00|ST2450644-001|中国国际橡胶展 2025|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
 2025-08-27|5.00|ST2450644-001|中国国际橡胶展 2025|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
 2025-08-28|3.00|ST2450644-001|中国国际橡胶展 2025|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
+2025-08-06|4.00|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
+2025-08-06|2.00|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
+2025-08-07|2.00|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
+2025-08-07|2.50|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
+2025-08-25|2.00|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
+2025-08-26|2.00|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
+2025-08-29|3.00|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
+2025-09-01|3.00|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
+2025-09-02|3.00|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
+2025-08-07|1.00|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
+2025-08-11|4.50|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
+2025-08-13|1.00|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
+2025-08-20|4.50|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jane Liu |jane.liu@pico.com|时薪|0.00|Summer Xia
+2025-08-04|8.50|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
+2025-08-05|0.50|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
+2025-08-06|1.50|ST2450657-001|Music China 2025|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
+2025-08-07|0.50|ST2450657-001|Music China 2025|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
 2025-08-08|0.33|ST2450644-001|中国国际橡胶展 2025|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
-2025-08-05|6.50|ST2450657-001|Music China 2025|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
 2025-08-08|2.00|ST2450448-001|2025亚洲国际鲜果生蔬展览会|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
 2025-08-12|3.00|ST2450448-001|2025亚洲国际鲜果生蔬展览会|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
 2025-08-18|8.50|ST2450448-001|2025亚洲国际鲜果生蔬展览会|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
@@ -204,30 +207,19 @@ TaskDate|WorkHours|ProjectID|ProjectName|OfficeID|TeamCode|GroupName|DesignTypeN
 2025-08-20|1.50|ST2450448-001|2025亚洲国际鲜果生蔬展览会|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
 2025-08-21|0.50|ST2450448-001|2025亚洲国际鲜果生蔬展览会|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
 2025-08-22|1.00|ST2450448-001|2025亚洲国际鲜果生蔬展览会|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
-2025-08-04|8.50|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
-2025-08-05|0.50|ST2450471-001|2025时尚家居生活展|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
-2025-08-12|2.00|ST2558783-001|法兰克福-AMS 2025|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
-2025-08-19|3.50|ST2558783-001|法兰克福-AMS 2025|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
-2025-08-21|2.00|ST2558783-001|法兰克福-AMS 2025|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
-2025-08-08|0.50|ST2450657-001|Music China 2025|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
-2025-08-20|0.50|ST2450657-001|Music China 2025|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
-2025-08-21|2.50|ST2450657-001|Music China 2025|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
 2025-08-06|2.42|ST2450470-001|第二十七届亚洲宠物展览会|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
 2025-08-07|2.50|ST2450470-001|第二十七届亚洲宠物展览会|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
 2025-08-08|5.67|ST2450470-001|第二十七届亚洲宠物展览会|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
 2025-08-11|1.00|ST2450470-001|第二十七届亚洲宠物展览会|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
 2025-08-11|4.00|ST2450470-001|第二十七届亚洲宠物展览会|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
 2025-08-12|3.00|ST2450470-001|第二十七届亚洲宠物展览会|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
-2025-08-06|1.50|ST2450657-001|Music China 2025|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
-2025-08-07|0.50|ST2450657-001|Music China 2025|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
-2025-08-27|3.00|PHE2557290-001|德默菲-工厂开业活动|sem|3D-B|默认组|3D-殷祥|Xiang Yin |xiang.yin@pico.com|时薪|0.00|Max Liu
-2025-08-01|9.50|PHA2556967-001|GITI-合肥工厂开幕|sem|3D-B|默认组|3D-JEFF|Xiang Yin |xiang.yin@pico.com|时薪|0.00|Max Liu
-2025-08-02|6.00|PHA2556967-001|GITI-合肥工厂开幕|sem|3D-B|默认组|3D-JEFF|Xiang Yin |xiang.yin@pico.com|时薪|0.00|Max Liu
-2025-08-03|8.50|PHA2556967-001|GITI-合肥工厂开幕|sem|3D-B|默认组|3D-JEFF|Xiang Yin |xiang.yin@pico.com|时薪|0.00|Max Liu
-2025-08-04|8.00|PHA2556967-001|GITI-合肥工厂开幕|sem|3D-B|默认组|3D-JEFF|Xiang Yin |xiang.yin@pico.com|时薪|0.00|Max Liu
-2025-08-06|8.50|PHA2556967-001|GITI-合肥工厂开幕|sem|3D-B|默认组|3D-JEFF|Xiang Yin |xiang.yin@pico.com|时薪|0.00|Max Liu
-2025-08-06|2.00|PHA2556967-001|GITI-合肥工厂开幕|sem|3D-B|默认组|3D-JEFF|Xiang Yin |xiang.yin@pico.com|时薪|0.00|Max Liu
-2025-09-03|8.83|PHA2556967-001|GITI-合肥工厂开幕|sem|3D-B|默认组|3D-JEFF|Xiang Yin |xiang.yin@pico.com|时薪|0.00|Max Liu
+2025-08-12|2.00|ST2558783-001|法兰克福-AMS 2025|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
+2025-08-19|3.50|ST2558783-001|法兰克福-AMS 2025|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
+2025-08-21|2.00|ST2558783-001|法兰克福-AMS 2025|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
+2025-08-05|6.50|ST2450657-001|Music China 2025|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
+2025-08-08|0.50|ST2450657-001|Music China 2025|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
+2025-08-20|0.50|ST2450657-001|Music China 2025|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
+2025-08-21|2.50|ST2450657-001|Music China 2025|she|ST|默认组|主场设计师|Jiaxin Ma |jiaxin.ma@pico.com|时薪|0.00|Summer Xia
 2025-07-31|11.00|SO2559238-999|KCW@AMS2025|sem|3D-B|默认组|3D-JEFF|Xiang Yin |xiang.yin@pico.com|时薪|0.00|Max Liu
 2025-08-11|3.50|SO2559238-999|KCW@AMS2025|sem|3D-B|默认组|3D-JEFF|Xiang Yin |xiang.yin@pico.com|时薪|0.00|Max Liu
 2025-08-05|9.00|SO2559238-999|KCW@AMS2025|sem|3D-B|默认组|3D-JEFF|Xiang Yin |xiang.yin@pico.com|时薪|0.00|Max Liu
@@ -243,11 +235,20 @@ TaskDate|WorkHours|ProjectID|ProjectName|OfficeID|TeamCode|GroupName|DesignTypeN
 2025-08-13|5.33|PHA2556967-001|GITI-合肥工厂开幕|sem|3D-B|默认组|3D-JEFF|Xiang Yin |xiang.yin@pico.com|时薪|0.00|Max Liu
 2025-09-02|12.00|PHA2556967-001|GITI-合肥工厂开幕|sem|3D-B|默认组|3D-JEFF|Xiang Yin |xiang.yin@pico.com|时薪|0.00|Max Liu
 2025-08-28|9.25|PHA2556967-001|GITI-合肥工厂开幕|sem|3D-B|默认组|3D-JEFF|Xiang Yin |xiang.yin@pico.com|时薪|0.00|Max Liu
+2025-09-08|9.17|PHA2556967-001|GITI-合肥工厂开幕|sem|3D-B|默认组|3D-JEFF|Xiang Yin |xiang.yin@pico.com|时薪|0.00|Max Liu
+2025-08-27|3.00|PHE2557290-001|德默菲-工厂开业活动|sem|3D-B|默认组|3D-殷祥|Xiang Yin |xiang.yin@pico.com|时薪|0.00|Max Liu
+2025-08-01|9.50|PHA2556967-001|GITI-合肥工厂开幕|sem|3D-B|默认组|3D-JEFF|Xiang Yin |xiang.yin@pico.com|时薪|0.00|Max Liu
+2025-08-02|6.00|PHA2556967-001|GITI-合肥工厂开幕|sem|3D-B|默认组|3D-JEFF|Xiang Yin |xiang.yin@pico.com|时薪|0.00|Max Liu
+2025-08-03|8.50|PHA2556967-001|GITI-合肥工厂开幕|sem|3D-B|默认组|3D-JEFF|Xiang Yin |xiang.yin@pico.com|时薪|0.00|Max Liu
+2025-08-04|8.00|PHA2556967-001|GITI-合肥工厂开幕|sem|3D-B|默认组|3D-JEFF|Xiang Yin |xiang.yin@pico.com|时薪|0.00|Max Liu
+2025-08-06|8.50|PHA2556967-001|GITI-合肥工厂开幕|sem|3D-B|默认组|3D-JEFF|Xiang Yin |xiang.yin@pico.com|时薪|0.00|Max Liu
+2025-08-06|2.00|PHA2556967-001|GITI-合肥工厂开幕|sem|3D-B|默认组|3D-JEFF|Xiang Yin |xiang.yin@pico.com|时薪|0.00|Max Liu
+2025-09-03|8.83|PHA2556967-001|GITI-合肥工厂开幕|sem|3D-B|默认组|3D-JEFF|Xiang Yin |xiang.yin@pico.com|时薪|0.00|Max Liu
+2025-08-14|10.00|Generic-SW|Generic-SW|sem|3D-B|默认组|3D-JEFF|Jiahao Qi |jiahao.qi@pico.com|时薪|0.00|Max Liu
 2025-08-06|8.50|Generic-PH|Generic-PH|sem|3D-B|默认组|3D-JEFF|Jiahao Qi |jiahao.qi@pico.com|时薪|0.00|Max Liu
 2025-08-12|9.00|Generic-PH|Generic-PH|sem|3D-B|默认组|3D-JEFF|Jiahao Qi |jiahao.qi@pico.com|时薪|0.00|Max Liu
 2025-08-15|11.00|Generic-PH|Generic-PH|sem|3D-B|默认组|3D-JEFF|Jiahao Qi |jiahao.qi@pico.com|时薪|0.00|Max Liu
 2025-08-13|11.00|Generic-SW|Generic-SW|sem|3D-B|默认组|3D-JEFF|Jiahao Qi |jiahao.qi@pico.com|时薪|0.00|Max Liu
-2025-08-14|10.00|Generic-SW|Generic-SW|sem|3D-B|默认组|3D-JEFF|Jiahao Qi |jiahao.qi@pico.com|时薪|0.00|Max Liu
 2025-07-27|14.00|Generic-SW|Generic-SW|she|3D-A|默认组|3D-周韩阳|Hanyang Zhou |hanyang.zhou@pico.com|时薪|200.00|Max Liu
 2025-07-28|11.00|Generic-SW|Generic-SW|she|3D-A|默认组|3D-周韩阳|Hanyang Zhou |hanyang.zhou@pico.com|时薪|200.00|Max Liu
 2025-07-29|14.00|Generic-SW|Generic-SW|she|3D-A|默认组|3D-周韩阳|Hanyang Zhou |hanyang.zhou@pico.com|时薪|200.00|Max Liu
@@ -258,6 +259,14 @@ TaskDate|WorkHours|ProjectID|ProjectName|OfficeID|TeamCode|GroupName|DesignTypeN
 2025-08-22|2.00|PHF2556969-999|brembo-SEA Conference 2025|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
 2025-08-25|4.00|PHF2556969-999|brembo-SEA Conference 2025|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
 2025-08-23|5.00|PHF2556969-999|brembo-SEA Conference 2025|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
+2025-09-04|3.00|PHF2556969-999|brembo-SEA Conference 2025|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
+2025-09-05|3.00|PHF2556969-999|brembo-SEA Conference 2025|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
+2025-09-06|2.00|PHF2556969-999|brembo-SEA Conference 2025|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
+2025-09-08|2.00|PHF2556969-999|brembo-SEA Conference 2025|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
+2025-08-05|1.00|PHC2553430-001|Smith-大学生创业大会|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
+2025-08-06|3.00|PHC2553430-001|Smith-大学生创业大会|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
+2025-08-13|2.00|PHC2553430-001|Smith-大学生创业大会|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
+2025-08-14|3.50|PHC2553430-001|Smith-大学生创业大会|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
 2025-08-05|8.00|SO2559139-999|Grand Opening Ceremony of Maersk Shanghai Lin-Gang Flagship|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
 2025-08-06|5.00|SO2559139-999|Grand Opening Ceremony of Maersk Shanghai Lin-Gang Flagship|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
 2025-08-07|4.00|SO2559139-999|Grand Opening Ceremony of Maersk Shanghai Lin-Gang Flagship|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
@@ -279,6 +288,8 @@ TaskDate|WorkHours|ProjectID|ProjectName|OfficeID|TeamCode|GroupName|DesignTypeN
 2025-08-23|3.00|PHE2557869-001|良信-增项设计 2025|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
 2025-08-26|5.00|PHE2557869-001|良信-增项设计 2025|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
 2025-08-27|5.00|PHE2557869-001|良信-增项设计 2025|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
+2025-09-05|5.00|PHE2557869-001|良信-增项设计 2025|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
+2025-09-08|7.00|PHE2557869-001|良信-增项设计 2025|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
 2025-08-18|8.00|PHE2557869-001|良信-增项设计 2025|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
 2025-08-19|2.00|PHE2557869-001|良信-增项设计 2025|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
 2025-08-20|2.00|PHE2557869-001|良信-增项设计 2025|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
@@ -296,6 +307,7 @@ TaskDate|WorkHours|ProjectID|ProjectName|OfficeID|TeamCode|GroupName|DesignTypeN
 2025-09-01|5.00|PHE2333983-001|良信-超级工厂模块化设计费|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
 2025-09-02|5.00|PHE2333983-001|良信-超级工厂模块化设计费|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
 2025-09-03|5.00|PHE2333983-001|良信-超级工厂模块化设计费|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
+2025-09-04|5.00|PHE2333983-001|良信-超级工厂模块化设计费|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
 2025-08-13|3.00|PHE2447253-001|良信-海盐工厂目视化制作|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
 2025-08-24|6.00|PHF2449432-001|brembo-Auto Shanghai|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
 2025-08-26|2.00|PHF2449432-001|brembo-Auto Shanghai|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
@@ -313,6 +325,10 @@ TaskDate|WorkHours|ProjectID|ProjectName|OfficeID|TeamCode|GroupName|DesignTypeN
 2025-08-12|4.92|PHA2556967-001|GITI-合肥工厂开幕|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
 2025-09-02|4.00|PHA2556967-001|GITI-合肥工厂开幕|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
 2025-09-03|4.00|PHA2556967-001|GITI-合肥工厂开幕|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
+2025-09-04|4.00|PHA2556967-001|GITI-合肥工厂开幕|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
+2025-09-05|4.00|PHA2556967-001|GITI-合肥工厂开幕|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
+2025-09-06|4.00|PHA2556967-001|GITI-合肥工厂开幕|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
+2025-09-08|4.00|PHA2556967-001|GITI-合肥工厂开幕|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
 2025-08-23|4.00|PHA2556967-001|GITI-合肥工厂开幕|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
 2025-08-24|5.00|PHA2556967-001|GITI-合肥工厂开幕|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
 2025-08-26|4.00|PHA2556967-001|GITI-合肥工厂开幕|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
@@ -332,8 +348,4 @@ TaskDate|WorkHours|ProjectID|ProjectName|OfficeID|TeamCode|GroupName|DesignTypeN
 2025-08-12|3.00|PHA2552865-001|Yonex-2025店铺互动屏|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
 2025-08-13|3.00|PHA2552865-001|Yonex-2025店铺互动屏|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
 2025-08-20|2.00|PHA2552865-001|Yonex-2025店铺互动屏|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
-2025-08-05|1.00|PHC2553430-001|Smith-大学生创业大会|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
-2025-08-06|3.00|PHC2553430-001|Smith-大学生创业大会|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
-2025-08-13|2.00|PHC2553430-001|Smith-大学生创业大会|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
-2025-08-14|3.50|PHC2553430-001|Smith-大学生创业大会|she|2D-C|默认组|2D|Hisen Wang |hisen.wang@pico.com|时薪|200.00|Max Liu
 2025-09-01|10.50|PHB2559800-001|宝洁-香化展2025|she|3D-A|默认组|3D-柴丽华|Trista Chai |trista.chai@pico.com|时薪|200.00|Max Liu
