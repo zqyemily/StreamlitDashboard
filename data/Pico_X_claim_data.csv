@@ -73,6 +73,7 @@ EstelleTeh|2025-08-25|8.00|Admin (TS, Logs etc.)|Pico X Internal|Claims, Expense
 EstelleTeh|2025-08-25|4.00|Operational Work|BU-Singapore|NLB Tech AI Showcase|Internal WIP (internal WIP with project team)|Client Projects
 EstelleTeh|2025-08-26|2.00|NLB_AI Tech Showcase 2025|BU-Singapore|Checking Dashboard for Client Access (Multi-vendor streaming data into DataLab) |Exploration (Investigate data to explore potential and possibilities)|Client Projects
 EstelleTeh|2025-08-26|5.00|NLB Read30 x NODES |BU-Singapore|Working on updated NLB Read30 Report|Exploration (Investigate data to explore potential and possibilities)|Client Projects
+EstelleTeh|2025-09-04|3.00|SFF 2025|BU-Singapore|Client Meeting|Presentation (Present final report output to client)|Client Projects
 Eunice Zheng |2025-08-01|5.50|BU Insights BI|All BUs|Added Chinese translation to ppt|Level 2 Minor Enhancement|BI Products
 Eunice Zheng |2025-08-01|1.00|BU Insights BI|All BUs|清洗Evan 的execl表（city 数据进行清洗匹配）|Development|BI Products
 Eunice Zheng |2025-08-01|1.50|Pico X Internal Meetings|Pico X Internal|morning meeting and 填写周报，日报|Other|Pico X
@@ -133,6 +134,27 @@ Eunice Zheng |2025-08-28|5.00|BU Insights BI|All BUs|清洗查找Continent到Cub
 Eunice Zheng |2025-08-28|3.00|Vendor BI|All BUs|项目时间预估和requirments整理|Initial Assessment|BI Products
 Eunice Zheng |2025-08-29|4.00|BI Consulting  / Analysis|All BUs| pull out all the projects done in Europe over the past 2 years|Development|BI Services
 Eunice Zheng |2025-08-29|2.00|BU Insights BI|All BUs|Sales amount 修复以及加上以上公式gp/sales，country清洗导入|Level 2 Minor Enhancement|BI Products
+Eunice Zheng |2025-09-01|4.70|Data Governance|All BUs|研究Location的数据的完整性监控图表|Level 2 Minor Enhancement|BI Products
+Eunice Zheng |2025-09-01|0.30|Pico X Internal Meetings|Pico X Internal|morning meeting|Other|Pico X
+Eunice Zheng |2025-09-01|2.00|BU Insights BI|All BUs|查找Europe 相关的vendor country |Level 2 Minor Enhancement|BI Products
+Eunice Zheng |2025-09-01|1.00|Vendor BI|All BUs|Quotation PDF |Initial Assessment|BI Products
+Eunice Zheng |2025-09-02|6.50|Data Governance|All BUs|研究Location的数据的完整性监控图表|Level 2 Minor Enhancement|BI Products
+Eunice Zheng |2025-09-02|1.00|Credit Control BI|Finance-Corp|需求分析及收集|Requirements Gathering & Scoping|BI Products
+Eunice Zheng |2025-09-02|0.50|Pico X Internal Meetings|Pico X Internal|morning meeting |Other|Pico X
+Eunice Zheng |2025-09-03|3.00|Data Governance|All BUs|将新产生的no team  mapping发送出去并进行沟通处理,查找Location gap 的原因  |Level 1 Helpdesk|BI Products
+Eunice Zheng |2025-09-03|3.00|Credit Control BI|Finance-Corp|整理需要的数据及问题|Requirements Gathering & Scoping|BI Products
+Eunice Zheng |2025-09-03|2.00|BU Insights BI|All BUs|清洗Europe Project 对应的vendor continent  到edw 及Cube |Level 2 Minor Enhancement|BI Products
+Eunice Zheng |2025-09-04|2.00|Credit Control BI|Finance-Corp|需求会议|Requirements Gathering & Scoping|BI Products
+Eunice Zheng |2025-09-04|1.50|BU Insights BI|All BUs|看location分析报告|Post Project Review|BI Products
+Eunice Zheng |2025-09-04|3.00|Data Governance|All BUs|查找Location gap 的原因  及发送新产生的no mapping team 给对应的财务|Level 2 Minor Enhancement|BI Products
+Eunice Zheng |2025-09-04|0.50|Vendor BI|All BUs|了解Donald 所做的模型|Training & Documentation|BI Products
+Eunice Zheng |2025-09-04|0.50|Pico X Internal Meetings|Pico X Internal|morning meeting|Other|Pico X
+Eunice Zheng |2025-09-05|0.50|Credit Control BI|Finance-Corp|进度会议|Requirements Gathering & Scoping|BI Products
+Eunice Zheng |2025-09-05|1.50|Data Governance|All BUs|meeting|Post Project Review|BI Products
+Eunice Zheng |2025-09-05|1.00|Data Governance|All BUs|project create date 加入edw |Level 2 Minor Enhancement|BI Products
+Eunice Zheng |2025-09-05|1.00|BU Insights BI|All BUs|了解分析报告|Post Project Review|BI Products
+Eunice Zheng |2025-09-08|3.00|Pico X Internal Meetings|Pico X Internal|学习了解Fabric|Other|Pico X
+Eunice Zheng |2025-09-08|0.30|Pico X Internal Meetings|Pico X Internal|morining meeting|Other|Pico X
 Joe Zou |2025-08-01|6.00|HR BI|China Corp|update code for employee, test|UAT|BI Products
 Joe Zou |2025-08-01|2.00|Exception Monitoring BI|Finance-IA|analyse and discuss for ax project in Epicor|Level 2 Minor Enhancement|BI Products
 Joe Zou |2025-08-04|8.00|HR BI|China Corp| test,fix data issue|UAT|BI Products
@@ -179,6 +201,17 @@ Joe Zou |2025-08-28|5.00|Pico Information Center|Finance-Corp|Export team mpping
 Joe Zou |2025-08-29|3.00|Concierge BI|All BUs|Analyse concierge Shanghai data|Development|BI Products
 Joe Zou |2025-08-29|5.00|Finance TB|Finance-Corp|TB requirement meeting and help to Kenneth update document|Detailed Requirements|BI Products
 Joe Zou |2025-09-01|8.00|Concierge BI|All BUs|import manual data to DB，shanghai field mapping|Development|BI Products
+Joe Zou |2025-09-02|7.00|Concierge BI|All BUs|pico concierge dashboard - update for shanghai manual data，analyse taiwan manual data and field mapping|Detailed Requirements|BI Products
+Joe Zou |2025-09-02|1.00|HR BI|China Corp|HR dashboard -discuss hr lincense and hr status|Level 1 Helpdesk|BI Products
+Joe Zou |2025-09-03|6.00|Concierge BI|All BUs|pico concierge dashboard - import manual data to DB for taiwan and analyse mapping|Detailed Requirements|BI Products
+Joe Zou |2025-09-03|1.00|Pico Information Center|Finance-Corp|add deniel.hairul@pico.com pic security;list status for master tool requirement |Level 1 Helpdesk|BI Products
+Joe Zou |2025-09-03|1.00|Intercom BI|Finance-Corp|check issue list|UAT|BI Products
+Joe Zou |2025-09-04|4.00|Concierge BI|All BUs|update excel report (include Taiwan manual data)|Detailed Requirements|BI Products
+Joe Zou |2025-09-04|2.00|HR BI|China Corp|HR dashboard -summary project status and discuss with Erica about The remaining and subsequent demands|Level 2 Minor Enhancement|BI Products
+Joe Zou |2025-09-04|2.00|Data Governance|All BUs|Data government -security,Security solution，role,report users|Technical Solution Design|BI Products
+Joe Zou |2025-09-05|5.00|Data Governance|All BUs|meeting, meeting record, check current design|Detailed Requirements|BI Products
+Joe Zou |2025-09-05|2.00|HR BI|China Corp|meeting record, update document|Level 2 Minor Enhancement|BI Products
+Joe Zou |2025-09-05|1.00|Intercom BI|Finance-Corp|analyse issues|UAT|BI Products
 Jonathan Koh |2025-08-04|2.00|Training Service (Data Service Related)|All BUs|TAP|Presentation|Data Services & Standardisation
 Jonathan Koh |2025-08-04|2.00|Training Service (Data Service Related)|BU-Pico BJ|BJ|Presentation|Data Services & Standardisation
 Jonathan Koh |2025-08-04|0.25|Admin (TS, Logs etc.)|Pico X Internal|Pico Que / DOS testing|Other|Pico X
@@ -202,6 +235,9 @@ Jonathan Koh |2025-08-27|2.00|Data SOP|All BUs||Concept Design & Solution Propos
 Jonathan Koh |2025-08-27|1.00|Standardization & Scenarios|All BUs|PICO BROWSER PLUG-IN REDESIGN|Concept Design & Solution Proposal|Data Services & Standardisation
 Jonathan Koh |2025-09-01|2.00|Stakeholder Meetings/Catchups|All BUs|Pico-AUSTRALIA|Other|Pico X
 Jonathan Koh |2025-09-01|6.00|Data SOP|All BUs||Technical Solution Design|Data Services & Standardisation
+Jonathan Koh |2025-09-01|2.00|Research & Development|All BUs|Client Intelligence|Concept Design & Solution Proposal|Technology & AI
+Jonathan Koh |2025-09-02|5.00|Data SOP|All BUs||Technical Solution Design|Data Services & Standardisation
+Jonathan Koh |2025-09-02|2.00|Research & Development|All BUs|Client Intelligence|Concept Design & Solution Proposal|Technology & AI
 Joseph Lim |2025-08-01|8.00|SFF 2025|BU-Singapore||Data Processing (Preparing raw data)|Client Projects
 Joseph Lim |2025-08-04|3.00|NLB_AI Tech Showcase 2025|BU-Singapore|Cable Planning|Internal WIP (internal WIP with project team)|Client Projects
 Joseph Lim |2025-08-04|3.00|Management Update|Pico X Internal||Other|Pico X
@@ -224,6 +260,22 @@ Joseph Lim |2025-08-15|2.00|Research & Development|BU-Singapore|Discussion on AI
 Joseph Lim |2025-08-15|2.00|NLB Read30 x NODES |BU-Singapore|Client Report Walkthrough|WIP call (client WIP call)|Client Projects
 Joseph Lim |2025-08-15|1.00|Pico X Internal Meetings|Pico X Internal|WIP |Other|Pico X
 Joseph Lim |2025-08-15|3.00|Data Governance|BU-Singapore|NDA|Development|BI Products
+Joseph Lim |2025-08-18|2.00|Management Update|Pico X Internal|MMM|Other|Pico X
+Joseph Lim |2025-08-18|4.00|Operational Work|BU-Singapore|Heart & Soul |Internal WIP (internal WIP with project team)|Client Projects
+Joseph Lim |2025-08-18|2.00|SFF 2025|BU-Singapore||Data Processing (Preparing raw data)|Client Projects
+Joseph Lim |2025-08-19|8.00|SFF 2025|BU-Singapore||Data Processing (Preparing raw data)|Client Projects
+Joseph Lim |2025-08-20|8.00|Data Governance|All BUs|NDA|Development|BI Products
+Joseph Lim |2025-08-21|8.00|Data Governance|All BUs|NDA|Development|BI Products
+Joseph Lim |2025-08-22|4.00|LLEC/SCAC|BU-Singapore||WIP call (client WIP call)|Client Projects
+Joseph Lim |2025-08-22|4.00|NLB Read30 x NODES |BU-Singapore||Data Processing (Preparing raw data)|Client Projects
+Joseph Lim |2025-08-25|2.00|Pico X Internal Meetings|Pico X Internal||Other|Pico X
+Joseph Lim |2025-08-25|6.00|Data Governance|All BUs||Development|BI Products
+Joseph Lim |2025-08-26|2.00|Antom x Japan Game Show 2025|BU-Singapore||Strategy (Designing data strategy for client)|Client Projects
+Joseph Lim |2025-08-26|3.00|LLEC/SCAC|BU-Singapore||WIP call (client WIP call)|Client Projects
+Joseph Lim |2025-08-26|3.00|Data Governance|All BUs||Development|BI Products
+Joseph Lim |2025-08-27|8.00|Research & Development|All BUs||Development|Technology & AI
+Joseph Lim |2025-08-28|8.00|Research & Development|All BUs||Development|Technology & AI
+Joseph Lim |2025-08-29|8.00|Research & Development|All BUs||Development|Technology & AI
 Kate Lu |2025-08-01|1.00|Stakeholder Meetings/Catchups|All BUs|Lunch with Pearl|Other|Pico X
 Kate Lu |2025-08-01|1.00|DOS BI|All BUs|DOS data template review with Tony|Project /Stakeholder Management|BI Products
 Kate Lu |2025-08-01|1.00|Strategy & Planning|Pico X Internal|preparing for budget meeting|Other|Pico X
@@ -315,6 +367,22 @@ Kate Lu |2025-08-28|1.00|Concierge BI|All BUs|SH data review and pass it onto SZ
 Kate Lu |2025-08-28|2.00|BU Insights BI|All BUs|review the location data|Level 2 Minor Enhancement|BI Products
 Kate Lu |2025-08-28|0.50|Data Governance|All BUs|huawei factsheets data sync discussion with MZ, Donald and KC|Project /Stakeholder Management|BI Products
 Kate Lu |2025-08-28|0.50|Admin (TS, Logs etc.)|Pico X Internal||Other|Pico X
+Kate Lu |2025-09-01|8.00|Strategy & Planning|Pico X Internal|budget deck|Other|Pico X
+Kate Lu |2025-09-02|1.00|Data SOP|All BUs|discussion with jk|Project /Stakeholder Management|Data Services & Standardisation
+Kate Lu |2025-09-02|6.50|Strategy & Planning|Pico X Internal|Budget deck|Other|Pico X
+Kate Lu |2025-09-03|2.00|Strategy & Planning|Pico X Internal|work plan|Other|Pico X
+Kate Lu |2025-09-03|2.00|BI Consulting  / Analysis|Management||Analysis|BI Services
+Kate Lu |2025-09-03|1.00|Data Inventory|All BUs||Concept Design & Solution Proposal|Data Services & Standardisation
+Kate Lu |2025-09-03|2.00|Pico X Internal Meetings|Pico X Internal|13 day challenge|Other|Pico X
+Kate Lu |2025-09-03|0.20|Admin (TS, Logs etc.)|Pico X Internal||Other|Pico X
+Kate Lu |2025-09-04|0.20|Admin (TS, Logs etc.)|Pico X Internal||Other|Pico X
+Kate Lu |2025-09-04|4.00|BI Consulting  / Analysis|Management||Analysis|BI Services
+Kate Lu |2025-09-04|1.00|HR BI|China Corp|phase 2 req|Requirements Gathering & Scoping|BI Products
+Kate Lu |2025-09-04|1.20|Partner or Vendor meetings|All BUs|boomi|Project /Stakeholder Management|Technology & AI
+Kate Lu |2025-09-04|1.00|Strategy & Planning|Pico X Internal|workplan|Other|Pico X
+Kate Lu |2025-09-05|2.00|Data Governance|All BUs||Detailed Requirements|BI Products
+Kate Lu |2025-09-05|1.50|Pico X Internal Meetings|Pico X Internal|discussion on data lab, aigo, direction|Other|Pico X
+Kate Lu |2025-09-05|0.50|HR BI|China Corp|meeting followup notes|Project /Stakeholder Management|BI Products
 MaggieLau|2025-08-01|1.00|Client Survey|Corp Comm||Project /Stakeholder Management|Technology & AI
 MaggieLau|2025-08-01|2.50|Business Planning|BU-Pico BJ||Development|BI Services
 MaggieLau|2025-08-01|0.50|Client Survey|Corp Comm|Call with Mun Yin to discuss plan|Requirements Gathering & Scoping|Technology & AI
@@ -375,8 +443,17 @@ MaggieLau|2025-08-27|0.50|Strategy & Planning|Pico X Internal|Call with Axils ab
 MaggieLau|2025-08-27|1.50|Strategy & Planning|Pico X Internal|Team meeting about work plans|Other|Pico X
 MaggieLau|2025-08-27|5.50|Strategy & Planning|Pico X Internal|Work plan|Other|Pico X
 MaggieLau|2025-09-01|2.00|Stakeholder Meetings/Catchups|Management|Pico X Tools and AI/BI for Pico Australia|Other|Pico X
-MaggieLau|2025-09-01|4.00|BI Consulting  / Analysis|China Corp|Sub-contractor analysis for LCW|Analysis|BI Services
+MaggieLau|2025-09-01|4.00|BI Consulting  / Analysis|Management|Sub-contractor analysis for LCW|Analysis|BI Services
 MaggieLau|2025-09-01|1.50|Vendor BI|BU-Singapore||Development|BI Products
+MaggieLau|2025-09-02|4.50|BI Consulting  / Analysis|Management|European sub-contractor analysis for LCW|Analysis|BI Services
+MaggieLau|2025-09-02|3.00|BI Consulting  / Analysis|Management|European sub-contractor analysis for LCW|Presentation|BI Services
+MaggieLau|2025-09-03|2.00|Strategy & Planning|Pico X Internal|Meeting with team about work plans|Other|Pico X
+MaggieLau|2025-09-03|0.50|Client Survey|Corp Comm|Call with Chris about quotation from vendor|Requirements Gathering & Scoping|Technology & AI
+MaggieLau|2025-09-03|1.00|BI Consulting  / Analysis|Management|Review presentation of European sub-contractor analysis for LCW|Presentation|BI Services
+MaggieLau|2025-09-03|4.00|Strategy & Planning|Pico X Internal|Work plan|Other|Pico X
+MaggieLau|2025-09-04|3.50|BI Consulting  / Analysis|Management|Finalizing presentation of European sub-contractor analysis for LCW|Presentation|BI Services
+MaggieLau|2025-09-04|1.00|Partner or Vendor meetings|All BUs|Meeting with Boomi|Project /Stakeholder Management|Technology & AI
+MaggieLau|2025-09-04|3.00|Strategy & Planning|Pico X Internal|work plan|Other|Pico X
 MingzheLi|2025-08-04|1.00|Research & Development|Pico X Internal|Palo IT meeting|Technical Solution Design|Technology & AI
 MingzheLi|2025-08-04|2.00|Strategy & Planning|Pico X Internal|Ricoh Preparation|Other|Pico X
 MingzheLi|2025-08-04|6.00|Business Travel|Pico X Internal|Ricoh Travel|Other|Pico X
@@ -445,6 +522,14 @@ MingzheLi|2025-08-26|1.00|Management Update|China Corp|Preparing deck and demo t
 MingzheLi|2025-08-26|2.00|Research & Development|All BUs|Huawei Factsheet development|Development|Technology & AI
 MingzheLi|2025-08-26|1.00|AiGO|BU-Pico SH|Discussion with Lynki on Intralox project|Requirements Gathering & Scoping|Technology & AI
 MingzheLi|2025-08-26|1.00|AiGO|BU-Pico SH|Discussion with Lynki on AIGO for Maersk Inauguration Ceremony|Concept Design & Solution Proposal|Technology & AI
+MingzheLi|2025-09-01|1.00|Stakeholder Meetings/Catchups|Pico X Internal|Pico Australia training preparation|Other|Pico X
+MingzheLi|2025-09-01|2.00|Stakeholder Meetings/Catchups|All BUs|Pico Australia meeting|Other|Pico X
+MingzheLi|2025-09-01|1.00|AiGO|BU-Pico SH|AIGO data processing for globalfoundries|Data Processing (Preparing raw data)|Client Projects
+MingzheLi|2025-09-01|1.00|Pico X Internal Meetings|Pico X Internal|WIP with Sole|Other|Pico X
+MingzheLi|2025-09-01|4.00|AiGO|All BUs|AIGO development|Development|Technology & AI
+MingzheLi|2025-09-02|2.00|Research & Development|Pico X Internal|Meeting with Alibaba on model training|Concept Design & Solution Proposal|Technology & AI
+MingzheLi|2025-09-02|2.00|Research & Development|Pico X Internal|AI model training research|Concept Design & Solution Proposal|Technology & AI
+MingzheLi|2025-09-02|4.00|AiGO|All BUs|AIGO development|Development|Technology & AI
 Mun Yin Liu |2025-08-01|0.50|Admin (TS, Logs etc.)|Pico X Internal||Other|Pico X
 Mun Yin Liu |2025-08-01|1.50|Past Project Report Analysis|All BUs||Initial Assessment|Data Services & Standardisation
 Mun Yin Liu |2025-08-01|1.00|Oerlikon @ ITMA Asia|BU-UK||Concept Design & Solution Proposal|Data Services & Standardisation
@@ -555,6 +640,19 @@ Mun Yin Liu |2025-08-29|1.50|Pico X Internal Meetings|Pico X Internal|Joseph|Oth
 Mun Yin Liu |2025-08-29|0.50|Web Summit Lisbon|BU-EMEA||Internal WIP (internal WIP with project team)|Client Projects
 Mun Yin Liu |2025-08-29|0.50|Admin (TS, Logs etc.)|Pico X Internal||Other|Pico X
 Mun Yin Liu |2025-09-01|7.00|AI Agent Automated Proposal|All BUs||Development|Technology & AI
+Mun Yin Liu |2025-09-02|0.50|Sibos - MP|BU-MP||Exploration (Investigate data to explore potential and possibilities)|Client Projects
+Mun Yin Liu |2025-09-02|0.75|Web Summit Lisbon|BU-EMEA||Proposal (Producing content to go into a deck for the client)|Client Projects
+Mun Yin Liu |2025-09-02|5.50|AI Agent Automated Proposal|All BUs||Development|Technology & AI
+Mun Yin Liu |2025-09-02|0.25|ADIB National Day Staff Celebration|BU-EMEA||Briefing (briefing kick off call)|Client Projects
+Mun Yin Liu |2025-09-03|0.50|Web Summit Lisbon|BU-EMEA||Internal WIP (internal WIP with project team)|Client Projects
+Mun Yin Liu |2025-09-03|2.00|Pico X Internal Meetings|Pico X Internal||Other|Pico X
+Mun Yin Liu |2025-09-03|4.50|AI Agent Automated Proposal|All BUs||Development|Technology & AI
+Mun Yin Liu |2025-09-04|0.50|Breitling Japan|BU-Japan||Proposal (Producing content to go into a deck for the client)|Client Projects
+Mun Yin Liu |2025-09-04|6.00|AI Agent Automated Proposal|All BUs||Development|Technology & AI
+Mun Yin Liu |2025-09-05|1.00|ADIB National Day Staff Celebration|BU-EMEA||Proposal (Producing content to go into a deck for the client)|Client Projects
+Mun Yin Liu |2025-09-05|1.00|Pico X Internal Meetings|Pico X Internal||Other|Pico X
+Mun Yin Liu |2025-09-05|4.50|AI Agent Automated Proposal|All BUs||Development|Technology & AI
+Mun Yin Liu |2025-09-05|0.50|Admin (TS, Logs etc.)|Pico X Internal||Other|Pico X
 SoleYang|2025-08-01|8.00|RFP Analyzer|Pico X Internal|"前端功能开发与优化：
 - 分析并规划在RFP数据看板（ RfpScoreDashboard.jsx） 中新增 audience_type、project_type 和 client 字段支持筛选选项。你与团队沟通，明确了这些字段对项目展示和分析的影响，确定了展示位置和交互逻辑。
 - 完成了新的筛选功能设计文档，并计划如何将其整合到现有的 React 组件中。讨论了界面调整，并确保布局不会破坏现有的用户体验。-=- 
@@ -689,12 +787,64 @@ SoleYang|2025-08-29|8.00|Research & Development|Pico X Internal|"项目管理文
 1.1 规划文件列表的渲染逻辑：展示文件名、大小、上传时间等信息，并在底部加上分页控件。
 1.2 在文件行中集成 垃圾桶图标，虽然删除 API 尚未就绪，但 UI 已经支持后续快速接入。
 1.3 考虑与其他模块（如设计需求列表、展位文件模块）的统一性，确保文件管理界面在交互模式上保持一致。"|Concept Design & Solution Proposal|Technology & AI
+Soonchek Yong |2025-08-01|4.00|Operational Work|BU-Singapore|Checked inventory and organized gear; unpacked items from prior teardown (cameras, router, PoE injector) and packed for next deployment.|Internal WIP (internal WIP with project team)|Client Projects
+Soonchek Yong |2025-08-01|2.00|Pico X Internal Meetings|Pico X Internal|internal team discussion|Other|Pico X
 Soonchek Yong |2025-08-01|2.00|Partner or Vendor meetings|BU-Singapore|RFID|Initial Assessment|Technology & AI
+Soonchek Yong |2025-08-04|2.00|NLB_AI Tech Showcase 2025|BU-Singapore|camera cabling|Internal WIP (internal WIP with project team)|Client Projects
+Soonchek Yong |2025-08-04|2.00|Partner or Vendor meetings|All BUs|project deployment discussion and arrangement|Project /Stakeholder Management|Technology & AI
+Soonchek Yong |2025-08-04|4.00|SFF 2025|BU-Singapore|process camera data for analysis|Data Processing (Preparing raw data)|Client Projects
+Soonchek Yong |2025-08-05|4.00|SFF 2025|BU-Singapore|process camera data for analysis|Data Processing (Preparing raw data)|Client Projects
 Soonchek Yong |2025-08-05|2.00|st180 Exhibition |BU-Singapore||Data Processing (Preparing raw data)|Client Projects
 Soonchek Yong |2025-08-05|2.00|Data Lab|All BUs|Testing Datalab API|UAT|Technology & AI
-Soonchek Yong |2025-08-08|8.00|st180 Exhibition |BU-Singapore|camera deployment|Data Processing (Preparing raw data)|Client Projects
-Soonchek Yong |2025-08-11|8.00|SFF 2025|BU-Singapore|camera deployment|Data Processing (Preparing raw data)|Client Projects
+Soonchek Yong |2025-08-06|2.00|NLB_AI Tech Showcase 2025|BU-Singapore|discussion and preparing API document for vendor|Internal WIP (internal WIP with project team)|Client Projects
+Soonchek Yong |2025-08-06|4.00|st180 Exhibition |BU-Singapore|Processing and structuring camera data for Power BI dashboards.|Data Processing (Preparing raw data)|Client Projects
+Soonchek Yong |2025-08-06|2.00|Data Lab|All BUs|testing api|UAT|Technology & AI
+Soonchek Yong |2025-08-07|8.00|st180 Exhibition |BU-Singapore|camera deployment at raffles city|Internal WIP (internal WIP with project team)|Client Projects
+Soonchek Yong |2025-08-08|8.00|st180 Exhibition |BU-Singapore|camera configuration and operational support on the exhibition’s opening day at raffles city|Data Processing (Preparing raw data)|Client Projects
+Soonchek Yong |2025-08-11|8.00|SFF 2025|BU-Singapore|camera deployment at UOB plaza|Data Processing (Preparing raw data)|Client Projects
+Soonchek Yong |2025-08-12|8.00|SFF 2025|BU-Singapore|camera configuration and operational support on the exhibition’s opening day.|Internal WIP (internal WIP with project team)|Client Projects
+Soonchek Yong |2025-08-13|2.00|Partner or Vendor meetings|All BUs| Feedback ABD Camera software and API integration with datalab for Weekly Data Report.|Requirements Gathering & Scoping|Technology & AI
+Soonchek Yong |2025-08-13|2.00|SFF 2025|BU-Singapore|Performed morning inspection and maintenance support to confirm cameras were fully operational.|Internal WIP (internal WIP with project team)|Client Projects
+Soonchek Yong |2025-08-13|2.00|Data Lab|All BUs|feedback and testing for readiness of the api for upcoming project|UAT|Technology & AI
+Soonchek Yong |2025-08-14|1.00|Partner or Vendor meetings|All BUs|MMP for NLB aitech|Requirements Gathering & Scoping|Technology & AI
+Soonchek Yong |2025-08-14|1.00|SFF 2025|BU-Singapore||Data Processing (Preparing raw data)|Client Projects
+Soonchek Yong |2025-08-14|4.00|st180 Exhibition |BU-Singapore||Data Processing (Preparing raw data)|Client Projects
+Soonchek Yong |2025-08-14|2.00|SFF 2025|BU-Singapore|Performed morning inspection and maintenance support to confirm cameras were fully operational.|Internal WIP (internal WIP with project team)|Client Projects
+Soonchek Yong |2025-08-15|2.00|SFF 2025|BU-Singapore|Performed morning inspection and maintenance support to confirm cameras were fully operational.|Internal WIP (internal WIP with project team)|Client Projects
+Soonchek Yong |2025-08-15|4.00|NLB_AI Tech Showcase 2025|BU-Singapore|preparing for customized datalab dashboard |Internal WIP (internal WIP with project team)|Client Projects
+Soonchek Yong |2025-08-15|2.00|Pico X Internal Meetings|Pico X Internal|internal team discussion|Other|Pico X
+Soonchek Yong |2025-08-18|2.00|SFF 2025|BU-Singapore||Data Processing (Preparing raw data)|Client Projects
+Soonchek Yong |2025-08-18|2.00|st180 Exhibition |BU-Singapore||Data Processing (Preparing raw data)|Client Projects
+Soonchek Yong |2025-08-18|4.00|Heart & Soul|BU-Singapore|camera deployment at orchard gateway|Internal WIP (internal WIP with project team)|Client Projects
+Soonchek Yong |2025-08-19|4.00|Heart & Soul|BU-Singapore|camera configuration and operational support|Internal WIP (internal WIP with project team)|Client Projects
+Soonchek Yong |2025-08-19|2.00|NLB_AI Tech Showcase 2025|BU-Singapore|preparation works|Internal WIP (internal WIP with project team)|Client Projects
+Soonchek Yong |2025-08-19|2.00|SFF 2025|BU-Singapore||Data Processing (Preparing raw data)|Client Projects
+Soonchek Yong |2025-08-20|2.00|Data Lab|All BUs|discussion and testing for upcoming project|Initial Assessment|Technology & AI
+Soonchek Yong |2025-08-20|4.00|NLB_AI Tech Showcase 2025|BU-Singapore|datalab dashboard integration with camera and digital data|Internal WIP (internal WIP with project team)|Client Projects
+Soonchek Yong |2025-08-20|2.00|Pico X Internal Meetings|Pico X Internal|internal team discussion|Other|Pico X
 Soonchek Yong |2025-08-21|8.00|NLB_AI Tech Showcase 2025|BU-Singapore|camera deployment|Data Processing (Preparing raw data)|Client Projects
+Soonchek Yong |2025-08-22|8.00|NLB_AI Tech Showcase 2025|BU-Singapore|camera configuration and operation support after camera deployment|Internal WIP (internal WIP with project team)|Client Projects
+Soonchek Yong |2025-08-25|8.00|NLB_AI Tech Showcase 2025|BU-Singapore|camera deployment|Internal WIP (internal WIP with project team)|Client Projects
+Soonchek Yong |2025-08-26|8.00|NLB_AI Tech Showcase 2025|BU-Singapore|operational support on the exhibition’s opening day|Internal WIP (internal WIP with project team)|Client Projects
+Soonchek Yong |2025-08-27|2.00|NLB_AI Tech Showcase 2025|BU-Singapore|operational support on the exhibition’s opening day.|Internal WIP (internal WIP with project team)|Client Projects
+Soonchek Yong |2025-08-27|3.00|NLB_AI Tech Showcase 2025|BU-Singapore|Retrieve data from ABD for routine checks and issue resolution.|Data Processing (Preparing raw data)|Client Projects
+Soonchek Yong |2025-08-27|2.00|Heart & Soul|BU-Singapore|reconfigure the camera for angle to capture footfall|Internal WIP (internal WIP with project team)|Client Projects
+Soonchek Yong |2025-08-27|1.00|Partner or Vendor meetings|All BUs|Engaged in troubleshooting dialogue focused on camera performance and issue detection.|Project /Stakeholder Management|Technology & AI
+Soonchek Yong |2025-08-28|2.00|Partner or Vendor meetings|All BUs|Engaged in discussion with ABD regarding camera configuration and daily data retrieval.|Project /Stakeholder Management|Technology & AI
+Soonchek Yong |2025-08-28|2.00|NLB_AI Tech Showcase 2025|BU-Singapore|operational support on the exhibition’s opening day.|Internal WIP (internal WIP with project team)|Client Projects
+Soonchek Yong |2025-08-28|2.00|NLB_AI Tech Showcase 2025|BU-Singapore|Processing and reviewing data daily before reporting to the client.|Data Processing (Preparing raw data)|Client Projects
+Soonchek Yong |2025-08-28|2.00|Heart & Soul|BU-Singapore|processing footfall for client reporting|Data Processing (Preparing raw data)|Client Projects
+Soonchek Yong |2025-08-29|2.00|NLB_AI Tech Showcase 2025|BU-Singapore|Processing and reviewing data daily before reporting to the client.|Data Processing (Preparing raw data)|Client Projects
+Soonchek Yong |2025-08-29|2.00|Heart & Soul|BU-Singapore|processing footfall for client reporting|Data Processing (Preparing raw data)|Client Projects
+Soonchek Yong |2025-08-29|2.00|Partner or Vendor meetings|All BUs|Engaged in troubleshooting dialogue focused on camera performance and issue detection.|Project /Stakeholder Management|Technology & AI
+Soonchek Yong |2025-08-29|2.00|NLB_AI Tech Showcase 2025|BU-Singapore|operational support on the exhibition’s opening day.|Data Processing (Preparing raw data)|Client Projects
+Soonchek Yong |2025-09-01|4.00|Heart & Soul|BU-Singapore|Processing and reviewing data daily before reporting to the client.|Data Processing (Preparing raw data)|Client Projects
+Soonchek Yong |2025-09-01|4.00|Operational Work|BU-Singapore|Plan and optimize the preprocessing of ABD API data for seamless integration with Datalab.|Data Processing (Preparing raw data)|Client Projects
+Soonchek Yong |2025-09-02|2.00|Operational Work|BU-Singapore|Plan and optimize the preprocessing of ABD API data for seamless integration with Datalab.|Data Processing (Preparing raw data)|Client Projects
+Soonchek Yong |2025-09-02|2.00|Admin (TS, Logs etc.)|BU-Singapore|claim|Other|Pico X
+Soonchek Yong |2025-09-02|4.00|NLB_AI Tech Showcase 2025|BU-Singapore|Processing and reviewing data daily before reporting to the client.|Data Processing (Preparing raw data)|Client Projects
+Soonchek Yong |2025-09-03|1.00|Operational Work|BU-Singapore|renew sim card for wifi internet access|Internal WIP (internal WIP with project team)|Client Projects
+Soonchek Yong |2025-09-03|1.00|Admin (TS, Logs etc.)|Pico X Internal|timesheet|Other|Pico X
 Yue Shi |2025-08-25|2.00|Recruitment|BU-South China|筛选简历和面试题目|Other|Pico X
 Yue Shi |2025-08-25|2.00|Data Services Templates|BU-Pico BJ|和高通骁龙组讨论CJ的结案报告|Analysis|Data Services & Standardisation
 Yue Shi |2025-08-25|2.00|Data Services Templates|All BUs|高通小程序功能优化和整理客户内部申报材料|Concept Design & Solution Proposal|Data Services & Standardisation
@@ -713,3 +863,8 @@ Yue Shi |2025-08-29|2.00|Stakeholder Meetings/Catchups|BU-Pico BJ|北京笔克WI
 Yue Shi |2025-08-29|2.00|Data SOP|BU-Pico BJ|和Victor、李麒讨论北京笔克测试SOP的团队人选 |Project /Stakeholder Management|Data Services & Standardisation
 Yue Shi |2025-08-29|2.00|Recruitment|BU-South China|沟通DDE面试人选|Other|Pico X
 Yue Shi |2025-08-29|2.00|Data Services Templates|BU-Pico BJ|骁龙9月经销商会议项目数据分析沟通|Project /Stakeholder Management|Data Services & Standardisation
+Yue Shi |2025-09-04|2.00|Data Services Templates|BU-Pico BJ|北京笔克IES团队的AI审图大模型会议|Project /Stakeholder Management|Data Services & Standardisation
+Yue Shi |2025-09-04|2.00|Data Services Templates|BU-Pico BJ|和Smart team的潜客数据发掘会议|Project /Stakeholder Management|Data Services & Standardisation
+Yue Shi |2025-09-04|4.00|Data Services Templates|BU-South China|找寻腾讯生态大会智能机器人资源|Project /Stakeholder Management|Data Services & Standardisation
+Yue Shi |2025-09-05|2.00|Data Services Templates|BU-Pico BJ|与smart team继续讨论潜客数据发掘|Project /Stakeholder Management|Data Services & Standardisation
+Yue Shi |2025-09-05|1.00|Data Services Templates|BU-Pico BJ|北京笔克WIP|Project /Stakeholder Management|Data Services & Standardisation

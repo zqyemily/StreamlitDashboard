@@ -6,41 +6,41 @@ BriefID|OfficeID|ProjectTeamCode|TeamCode|ProjectID|ProjectName|SIC|Customer|Bri
 392|sem|PHB|Planner|PHB2556809-999|会通-德国K展|龚 慧钦|会通新材料股份有限公司|会通新材料@2025德国K展|2025-05-27 11:57:31|Special Design|#999 Project|2025-10-15|2025-10-08|Closed Lost|||Pitching|Max Liu
 393|sem|PHB|2D-C|PHB2556809-999|会通-德国K展|龚 慧钦|会通新材料股份有限公司|会通新材料@2025德国K展|2025-05-27 11:57:31|Special Design|#999 Project|2025-10-15|2025-10-08|Closed Lost|||Pitching|Max Liu
 395|she|ST|ST|ST2556864-001|HermanMillerGaming@ChinaJoy 2025|骆 漪涟|赫曼米勒（东莞）家具有限公司|赫曼米勒@chinajoy 图纸修改|2025-05-27 15:24:40|Special Design|Project/ External Project|2025-08-04|2025-08-01|unknown|||SClosed|Summer Xia
-397|she|ST|ST|ST2556888-999|Polgun@IAAPA EXPO ASIA 2025|骆 漪涟|Polgun Waterparks & Attractions|Polgun@IAAPA 2025|2025-05-27 22:19:17|Special Design|#999 Project|2025-07-03|2025-06-30|Closed Lost|||Pitching|Summer Xia
-398|she|SO|3D-A|SO2556906-999|CBME2025|车 经纬|福维克家用电器制造（上海）有限公司|福维克CBME的展台设计|2025-05-28 15:10:40|Special Design|#999 Project|2025-07-18|2025-07-16|Closed Lost|||Pitching|Max Liu
+397|she|ST|ST|ST2556888-999|Polgun@IAAPA EXPO ASIA 2025|骆 漪涟|Polgun Waterparks & Attractions|Polgun@IAAPA 2025|2025-05-27 22:19:17|Special Design|#999 Project|2025-07-03|2025-06-30|unknown|||Pitching|Summer Xia
+398|she|SO|3D-A|SO2556906-999|CBME2025|车 经纬|福维克家用电器制造（上海）有限公司|福维克CBME的展台设计|2025-05-28 15:10:40|Special Design|#999 Project|2025-07-18|2025-07-16|unknown|||Pitching|Max Liu
 400|sem|PHA|3D-A|PHA2450888-001|Yonex-2025新品发布合作伙伴会议-7月（运营）|赵 春华|尤尼克斯（上海）体育用品有限公司|YONEX订货会-晚宴设计|2025-05-28 20:12:08|Trade Event Management 商业活动管理|Project/ External Project|2025-07-08|2025-07-01|unknown|||SClosed|Max Liu
 401|sem|QS|3D-A|QS2556934-999|IACE2025|车 经纬|英飞凌科技（中国）有限公司|IACE2025大会|2025-05-29 10:44:28|Trade Event Management 商业活动管理|#999 Project|2025-11-20|2025-11-15|Closed Lost|0.0000||Pitching|Max Liu
 402|sem|QS|CAD-Porject|QS2556934-999|IACE2025|车 经纬|英飞凌科技（中国）有限公司|IACE2025大会|2025-05-29 10:44:29|Trade Event Management 商业活动管理|#999 Project|2025-11-20|2025-11-15|Closed Lost|0.0000||Pitching|Max Liu
 403|sem|QS|Planner|QS2556934-999|IACE2025|车 经纬|英飞凌科技（中国）有限公司|IACE2025大会|2025-05-29 10:44:29|Trade Event Management 商业活动管理|#999 Project|2025-11-20|2025-11-15|Closed Lost|0.0000||Pitching|Max Liu
-406|she|SE|3D-A|SE2553358-001|2504咪咕VR展厅|葛 伟杰|上海曜境互联网信息技术有限公司|咪咕VR展厅设计|2025-05-29 15:18:14|Retail/Showroom 零售店/展厅|Project/ External Project|2026-09-01|2025-09-01|unknown|||Created|Max Liu
+406|she|SE|3D-A|SE2553358-001|2504咪咕VR展厅|葛 伟杰|上海曜境互联网信息技术有限公司|咪咕VR展厅设计|2025-05-29 15:18:14|Retail/Showroom 零售店/展厅|Project/ External Project|2026-09-01|2025-09-01|unknown|||SClosed|Max Liu
 407|sem|PHF|3D-B|PHF2556969-999|brembo-SEA Conference 2025|Louise Bao|青岛布雷博贸易有限公司|Brembo- 2025 SEA Conference|2025-05-29 15:42:14|Trade Event Management 商业活动管理|#999 Project|2025-07-18|2025-07-14|Closed Lost|||Pitching|Max Liu
 408|sem|PHF|2D-C|PHF2556969-999|brembo-SEA Conference 2025|Louise Bao|青岛布雷博贸易有限公司|Brembo- 2025 SEA Conference|2025-05-29 15:42:14|Trade Event Management 商业活动管理|#999 Project|2025-07-18|2025-07-14|Closed Lost|||Pitching|Max Liu
 409|sem|PHF|Planner|PHF2556969-999|brembo-SEA Conference 2025|Louise Bao|青岛布雷博贸易有限公司|Brembo- 2025 SEA Conference|2025-05-29 15:42:14|Trade Event Management 商业活动管理|#999 Project|2025-07-18|2025-07-14|Closed Lost|||Pitching|Max Liu
-413|sem|PHF|2D-C|PHF2449432-001|brembo-Auto Shanghai|袁 静燕|青岛布雷博贸易有限公司|Auto Show|2025-05-30 12:46:24|Special Design|Project/ External Project|2025-08-29|2025-04-23|unknown|||SClosed|Max Liu
+413|sem|PHF|2D-C|PHF2449432-001|brembo-Auto Shanghai|袁 静燕|青岛布雷博贸易有限公司|Auto Show|2025-05-30 12:46:24|Special Design|Project/ External Project|2025-08-31|2025-04-23|unknown|||SClosed|Max Liu
 427|she|ST|ST|ST2450470-001|第二十七届亚洲宠物展览会|沈 光宇|上海万耀亚宠展览有限公司|全生命周期方案|2025-06-03 14:28:14|Hall Facilities Management 展馆设施管理|Project/ External Project|2025-08-24|2025-08-20|unknown|||SClosed|Summer Xia
 431|she|ST|ST|ST2450453-001|2025中国国际家用纺织品及辅料（秋冬）博览会|才 兴华|法兰克福展览（深圳）有限公司|家纺展秋季大会区域 Textiles-selection |2025-06-04 12:40:36|Hall Facilities Management 展馆设施管理|Project/ External Project|2025-08-22|2025-08-20|unknown|||SClosed|Summer Xia
-434|she|ST|ST|ST2450657-001|Music China 2025|陈 虔来|Messe Frankfurt 法兰克福展览（上海）有限公司|乐器展升级展位出图|2025-06-04 14:22:41|Exhibitor Services  Rental  Technical & Safety 参展商服务、租赁、技术和安全|Project/ External Project|2025-10-25|2025-10-22|Closed Won|||Created|Summer Xia
+434|she|ST|ST|ST2450657-001|Music China 2025|陈 虔来|Messe Frankfurt 法兰克福展览（上海）有限公司|乐器展升级展位出图|2025-06-04 14:22:41|Exhibitor Services  Rental  Technical & Safety 参展商服务、租赁、技术和安全|Project/ External Project|2025-10-25|2025-10-22|unknown|||Created|Summer Xia
 452|sem|PHF|3D-A|PHF2556965-001|ExxonMobil-PolyView 2025|袁 静燕|ExxonMobil Asia Pacific Pte Ltd, Co.|ExxonMobil-2025Polyview|2025-06-05 13:40:13|Trade Event Management 商业活动管理|Project/ External Project|2025-11-20|2025-11-19|Closed Won|0.0000||Created|Max Liu
 453|sem|PHF|2D-C|PHF2556965-001|ExxonMobil-PolyView 2025|袁 静燕|ExxonMobil Asia Pacific Pte Ltd, Co.|ExxonMobil-2025Polyview|2025-06-05 13:41:04|Trade Event Management 商业活动管理|Project/ External Project|2025-11-20|2025-11-19|Closed Won|0.0000||Created|Max Liu
 454|sem|PHF|Planner|PHF2556965-001|ExxonMobil-PolyView 2025|袁 静燕|ExxonMobil Asia Pacific Pte Ltd, Co.|ExxonMobil-2025Polyview|2025-06-05 13:41:45|Trade Event Management 商业活动管理|Project/ External Project|2025-11-20|2025-11-19|Closed Won|0.0000||Created|Max Liu
-455|she|ST|ST|ST2446639-001|IAAPA EXPO ASIA  2025|沈 光宇|国际游乐园及景点协会|IAAPA Expo Asia 2025  OR|2025-06-05 17:09:24|Hall Facilities Management 展馆设施管理|Project/ External Project|2025-07-03|2025-06-30|Closed Won|2982703.2100|RMB|SClosed|Summer Xia
+455|she|ST|ST|ST2446639-001|IAAPA EXPO ASIA  2025|沈 光宇|国际游乐园及景点协会|IAAPA Expo Asia 2025  OR|2025-06-05 17:09:24|Hall Facilities Management 展馆设施管理|Project/ External Project|2025-07-03|2025-06-30|unknown|||SClosed|Summer Xia
 521|sem|PHB|3D-B|PHB2556076-999|中核安科锐-Hospeq 2025|龚 慧钦|中核安科锐(天津)医疗科技有限责任公司|中核安科锐-Hospeq2025|2025-06-09 11:56:58|Special Design|#999 Project|2025-08-17|2025-08-15|Closed Lost|||Pitching|Max Liu
 522|sem|PHB|Planner|PHB2556076-999|中核安科锐-Hospeq 2025|龚 慧钦|中核安科锐(天津)医疗科技有限责任公司|中核安科锐-Hospeq2025|2025-06-09 11:56:59|Special Design|#999 Project|2025-08-17|2025-08-15|Closed Lost|||Pitching|Max Liu
 523|sem|PHB|CAD-Porject|PHB2556076-999|中核安科锐-Hospeq 2025|龚 慧钦|中核安科锐(天津)医疗科技有限责任公司|中核安科锐-Hospeq2025|2025-06-09 11:57:00|Special Design|#999 Project|2025-08-17|2025-08-15|Closed Lost|||Pitching|Max Liu
 524|sem|PHB|2D-C|PHB2556076-999|中核安科锐-Hospeq 2025|龚 慧钦|中核安科锐(天津)医疗科技有限责任公司|中核安科锐-Hospeq2025|2025-06-09 11:57:02|Special Design|#999 Project|2025-08-17|2025-08-15|Closed Lost|||Pitching|Max Liu
-531|sem|PHE|3D-B|PHE2557290-001|德默菲-工厂开业活动|陶 晨|德默菲换热器(平湖)有限公司|德默菲-工厂开业活动|2025-06-09 15:16:03|Trade Event Management 商业活动管理|Project/ External Project|2025-10-31|2025-10-22|Closed Won|0.0000||Created|Max Liu
-532|she|SO|3D-B|SO2557413-999|SPS Nürnberg 2025|车 经纬|苏州易德龙科技股份有限公司|SPS Nürnberg 2025|2025-06-09 15:34:36|Special Design|#999 Project|2025-11-27|2025-11-25|Closed Lost|0.0000||Pitching|Max Liu
+531|sem|PHE|3D-B|PHE2557290-001|德默菲-工厂开业活动|陶 晨|德默菲换热器(平湖)有限公司|德默菲-工厂开业活动|2025-06-09 15:16:03|Trade Event Management 商业活动管理|Project/ External Project|2025-10-31|2025-10-22|unknown|||Quotation|Max Liu
+532|she|SO|3D-B|SO2557413-999|SPS Nürnberg 2025|车 经纬|苏州易德龙科技股份有限公司|SPS Nürnberg 2025|2025-06-09 15:34:36|Special Design|#999 Project|2025-11-27|2025-11-25|unknown|||Pitching|Max Liu
 541|sem|PHC|2D-C|PHC2553430-001|Smith-大学生创业大会|孙 卓鸣|A.E. Smith Brand Management (Shanghai) Co. Ltd.|活动会场延展平面|2025-06-09 17:17:23|Trade Event Management 商业活动管理|Project/ External Project|2025-12-31|2025-06-18|unknown|||SClosed|Max Liu
 542|sem|PHC|3D-A|PHC2553430-001|Smith-大学生创业大会|孙 卓鸣|A.E. Smith Brand Management (Shanghai) Co. Ltd.|活动会场效果图|2025-06-09 17:18:50|Trade Event Management 商业活动管理|Project/ External Project|2025-12-31|2025-06-18|unknown|||SClosed|Max Liu
-588|she|SE|3D-A|SE2553358-001|2506咪咕VR展厅|葛 伟杰|上海曜境互联网信息技术有限公司|西安咪咕VR体验区|2025-06-11 09:49:40|Retail/Showroom 零售店/展厅|Project/ External Project|2026-09-01|2025-09-01|unknown|||Created|Max Liu
+588|she|SE|3D-A|SE2553358-001|2506咪咕VR展厅|葛 伟杰|上海曜境互联网信息技术有限公司|西安咪咕VR体验区|2025-06-11 09:49:40|Retail/Showroom 零售店/展厅|Project/ External Project|2026-09-01|2025-09-01|unknown|||SClosed|Max Liu
 605|sem|PHE|2D-C|PHE2447253-001|良信-海盐工厂目视化制作|陶 晨|良信电器（海盐）有限公司|厂区内生产线玻璃贴|2025-06-12 16:30:14|Experiential Centre 体验中心|Project/ External Project|2026-09-30|2025-06-23|unknown|||SClosed|Max Liu
 606|sem|PHE|3D-A|PHE2447253-001|良信-海盐工厂目视化制作|陶 晨|良信电器（海盐）有限公司|厂区内生产线玻璃贴|2025-06-12 16:30:15|Experiential Centre 体验中心|Project/ External Project|2026-09-30|2025-06-23|unknown|||SClosed|Max Liu
 607|sem|PHE|CAD-Porject|PHE2447253-001|良信-海盐工厂目视化制作|陶 晨|良信电器（海盐）有限公司|厂区内生产线玻璃贴|2025-06-12 16:30:15|Experiential Centre 体验中心|Project/ External Project|2026-09-30|2025-06-23|unknown|||SClosed|Max Liu
 640|she|ST|ST|ST2556843-001|广东豪辉科技股份有限公司@CWIEME China 2025|徐 靖怡|广东豪辉科技股份有限公司|广东豪辉科技股份有限公司@CWIEME 2025展台设计|2025-06-16 20:58:59|Special Design|Project/ External Project|2025-06-27|2025-06-25|unknown|||PSCompl|Summer Xia
-641|she|ST|ST|ST2557672-001|江西中易微连新材料科技有限公司@CWIEME China 2025|徐 靖怡|江西中易微连新材料科技有限公司|江西中易微连新材料科技有限公司@CWIEME China 2025 展台设计|2025-06-16 21:50:56|Special Design|Project/ External Project|2025-06-27|2025-06-25|Closed Won|40000.0000|RMB|SClosed|Summer Xia
+641|she|ST|ST|ST2557672-001|江西中易微连新材料科技有限公司@CWIEME China 2025|徐 靖怡|江西中易微连新材料科技有限公司|江西中易微连新材料科技有限公司@CWIEME China 2025 展台设计|2025-06-16 21:50:56|Special Design|Project/ External Project|2025-06-27|2025-06-25|unknown|||SClosed|Summer Xia
 642|she|ST|ST|ST2557673-001|铜陵有色股份铜冠电工有限公司@CWIEME China 2025|徐 靖怡|铜陵有色股份铜冠电工有限公司|铜陵有色股份铜冠电工有限公司|2025-06-16 22:26:26|Special Design|Project/ External Project|2025-06-27|2025-06-25|unknown|||SClosed|Summer Xia
 643|she|ST|ST|ST2557674-001|钜佳合丰工业（深圳）有限公司@CWIEME China 2025|徐 靖怡|钜佳合丰工业（深圳）有限公司|钜佳合丰工业（深圳）有限公司|2025-06-16 22:44:02|Special Design|Project/ External Project|2025-06-27|2025-06-25|unknown|||PSCompl|Summer Xia
-661|she|SE|3D-A|SE2553358-001|2506咪咕VR展厅|葛 伟杰|上海曜境互联网信息技术有限公司|咪咕快闪店设计|2025-06-18 10:22:52|Retail/Showroom 零售店/展厅|Project/ External Project|2026-09-01|2025-09-01|unknown|||Created|Max Liu
+661|she|SE|3D-A|SE2553358-001|2506咪咕VR展厅|葛 伟杰|上海曜境互联网信息技术有限公司|咪咕快闪店设计|2025-06-18 10:22:52|Retail/Showroom 零售店/展厅|Project/ External Project|2026-09-01|2025-09-01|unknown|||SClosed|Max Liu
 695|sem|PHB|3D-B|PHB2557944-999|台湾映像-公司展厅|龚 慧钦|昆山台湾映像文化发展有限公司|进口食品（花桥）国际贸易中心国家主题展厅设计|2025-06-23 17:18:03|Retail/Showroom 零售店/展厅|#999 Project|2025-09-30|2025-08-12|unknown|||Pitching|Max Liu
 736|sem|PHE|CAD-Porject|PHE2556413-001|星巴克-装置制作|陶 晨|星巴克（昆山）咖啡有限公司|星巴克-装置制作|2025-06-24 12:49:00||Project/ External Project|2025-10-31|2025-09-22|Closed Won|60155.0000|RMB|InProgress|Max Liu
 737|she|SW|3D-A|Generic-SW|Generic-SW||Generic Customer|瑞国@家具展（新国际）|2025-06-24 14:59:00|(GEN) INSURANCE管理费用/行政管理费/保险费||||unknown||||Max Liu
@@ -50,49 +50,49 @@ BriefID|OfficeID|ProjectTeamCode|TeamCode|ProjectID|ProjectName|SIC|Customer|Bri
 815|sem|PHC|2D-C|PHC2558165-999|DuPont-小米合作会议|孙 卓鸣|罗门哈斯电子材料（上海）有限公司|平面设计|2025-07-01 10:20:22|Trade Event Management 商业活动管理|#999 Project|2025-07-22|2025-07-22|Closed Lost|||Pitching|Max Liu
 816|sem|PHC|Planner|PHC2558165-999|DuPont-小米合作会议|孙 卓鸣|罗门哈斯电子材料（上海）有限公司|创意策划|2025-07-01 10:21:07|Trade Event Management 商业活动管理|#999 Project|2025-07-22|2025-07-22|Closed Lost|||Pitching|Max Liu
 817|sem|PHC|2D-C|PHC2553440-001|科思创-2025年8月townhall|孙 卓鸣|科思创（上海）投资有限公司|平面设计|2025-07-01 10:53:14|Trade Event Management 商业活动管理|Project/ External Project|2025-08-29|2025-08-28|unknown|||SClosed|Max Liu
-885|she|SO|3D-A|SO2558214-999|SEMICON TAIWAN2025|吴 妙巧|兆瓦精密部件（上海）有限公司|台湾SEMICON2025|2025-07-04 16:17:14|Special Design|#999 Project|2025-09-12|2025-09-10|Closed Lost|0.0000||Pitching|Max Liu
+885|she|SO|3D-A|SO2558214-999|SEMICON TAIWAN2025|吴 妙巧|兆瓦精密部件（上海）有限公司|台湾SEMICON2025|2025-07-04 16:17:14|Special Design|#999 Project|2025-09-12|2025-09-10|unknown|||Pitching|Max Liu
 969|she|SW|3D-B|Generic-SW|Generic-SW||Generic Customer|艾默生@CIIE2025|2025-07-10 10:12:35|(GEN) INSURANCE管理费用/行政管理费/保险费||||unknown||||Max Liu
-1002|she|SO|3D-A|SO2558622-999|2025秋季面料对话纺织论坛|吴 妙巧|法兰克福展览（深圳）有限公司|面料展展台|2025-07-11 16:27:52|Special Design|#999 Project|2025-09-04|2025-09-02|Closed Lost|0.0000||Pitching|Max Liu
+1002|she|SO|3D-A|SO2558622-999|2025秋季面料对话纺织论坛|吴 妙巧|法兰克福展览（深圳）有限公司|面料展展台|2025-07-11 16:27:52|Special Design|#999 Project|2025-09-04|2025-09-02|unknown|||Pitching|Max Liu
 1003|she|SO|3D-A|SO2558623-001|2025秋季面料行业洞察论坛|吴 妙巧|法兰克福展览（深圳）有限公司|面料展展台|2025-07-11 16:30:09|Special Design|Project/ External Project|2025-09-04|2025-09-02|unknown|||SClosed|Max Liu
 1078|she|SW|CAD-Porject|Generic-SW|Generic-SW||Generic Customer|CISMA 2025|2025-07-18 16:33:05|(GEN) INSURANCE管理费用/行政管理费/保险费||||unknown||||Max Liu
-1080|she|SE|3D-A|SE2553358-001|2507咪咕VR展厅|葛 伟杰|上海曜境互联网信息技术有限公司|南宁咪咕VR空间|2025-07-21 10:02:14|Retail/Showroom 零售店/展厅|Project/ External Project|2026-09-01|2025-09-01|unknown|||Created|Max Liu
+1080|she|SE|3D-A|SE2553358-001|2507咪咕VR展厅|葛 伟杰|上海曜境互联网信息技术有限公司|南宁咪咕VR空间|2025-07-21 10:02:14|Retail/Showroom 零售店/展厅|Project/ External Project|2026-09-01|2025-09-01|unknown|||SClosed|Max Liu
 1101|she|SW|CAD-Porject|Generic-SW|Generic-SW||Generic Customer|苏州厨师赛|2025-07-21 16:14:28|(GEN) INSURANCE管理费用/行政管理费/保险费||||unknown||||Max Liu
-1119|she|SO|3D-A|SO2558976-999|2025海立销售大会|吴 妙巧|上海海立电器有限公司|2025海立销售大会|2025-07-22 14:03:15|Corporate Event|#999 Project|2025-09-05|2025-09-03|Proposal|||Pitching|Max Liu
+1119|she|SO|3D-A|SO2558976-999|2025海立销售大会|吴 妙巧|上海海立电器有限公司|2025海立销售大会|2025-07-22 14:03:15|Corporate Event|#999 Project|2025-09-05|2025-09-03|unknown|||Pitching|Max Liu
 1120|she|SW|3D-A|Generic-SW|Generic-SW||Generic Customer|北京煤炭展|2025-07-22 15:06:59|(GEN) INSURANCE管理费用/行政管理费/保险费||||unknown||||Max Liu
 1121|sem|PHC|Planner|PHC2558653-001|杜邦-CIIE 2025|孙 卓鸣|杜邦中国集团有限公司|杜邦进博会策划方案|2025-07-22 16:29:44|Special Design|Project/ External Project|2025-11-10|2025-11-05|unknown|||InProgress|Max Liu
 1122|sem|PHC|3D-A|PHC2558653-001|杜邦-CIIE 2025|孙 卓鸣|杜邦中国集团有限公司|杜邦进博会效果图|2025-07-22 16:31:11|Special Design|Project/ External Project|2025-11-10|2025-11-05|unknown|||InProgress|Max Liu
 1123|sem|PHC|3D-B|PHC2558653-001|杜邦-CIIE 2025|孙 卓鸣|杜邦中国集团有限公司|杜邦进博会效果图|2025-07-22 16:31:11|Special Design|Project/ External Project|2025-11-10|2025-11-05|unknown|||InProgress|Max Liu
-1124|she|SO|3D-A|SO2558986-999|CIIE2025|车 经纬|Singapore Business Federation-55|CIIE|2025-07-22 16:35:10|Special Design|#999 Project|2025-11-10|2025-11-05|Closed Won|0.0000||Pitching|Max Liu
+1124|she|SO|3D-A|SO2558986-999|CIIE2025|车 经纬|Singapore Business Federation-55|CIIE|2025-07-22 16:35:10|Special Design|#999 Project|2025-11-10|2025-11-05|unknown|||Pitching|Max Liu
 1125|sem|PHA|3D-B|PHA2556967-001|GITI-合肥工厂开幕|赵 春华|佳通轮胎（中国）投资有限公司|佳通合肥工厂开幕技术展示陪稿|2025-07-22 16:40:51|Trade Event Management 商业活动管理|Project/ External Project|2025-10-19|2025-10-18|Closed Won|955208.4000|RMB|InProgress|Max Liu
 1126|sem|PHC|Planner|PHC2558988-001|贝克休斯-CIIE 2025|孙 卓鸣|贝克休斯石油天然气设备（北京）有限公司|贝克休斯进博会策划方案|2025-07-22 16:47:21|Special Design|Project/ External Project|2025-11-10|2025-11-05|unknown|||InProgress|Max Liu
 1127|sem|PHC|3D-B|PHC2558988-001|贝克休斯-CIIE 2025|孙 卓鸣|贝克休斯石油天然气设备（北京）有限公司|贝克休斯进博会展台效果图|2025-07-22 16:48:03|Special Design|Project/ External Project|2025-11-10|2025-11-05|unknown|||InProgress|Max Liu
 1128|sem|PHA|Planner|PHA2552865-001|Yonex-2025店铺互动屏|麻 丽杨|尤尼克斯（上海）体育用品有限公司|2025YONEX大篷车快闪|2025-07-22 17:15:18|Trade Event Management 商业活动管理|Project/ External Project|2025-08-31|2025-04-21|unknown|||SClosed|Max Liu
 1129|sem|PHA|3D-B|PHA2552865-001|Yonex-2025店铺互动屏|麻 丽杨|尤尼克斯（上海）体育用品有限公司|2025YONEX篷车快闪|2025-07-22 17:19:05|Trade Event Management 商业活动管理|Project/ External Project|2025-08-31|2025-04-21|unknown|||SClosed|Max Liu
-1141|sem|PHA|2D-C|PHA2554223-001|Yonex-ATP互动机|付 欢|尤尼克斯（上海）体育用品有限公司|YONEX劳力士大师赛 H5 互动设计|2025-07-23 09:28:11|Brand Strategy/Activation 品牌活动|Project/ External Project|2025-10-20|2025-09-29|unknown|||Quotation|Max Liu
-1142|she|SE|3D-A|SE2553358-001|2507咪咕VR展厅|葛 伟杰|上海曜境互联网信息技术有限公司|惠州咪咕VR空间设计需求|2025-07-23 10:39:08|Retail/Showroom 零售店/展厅|Project/ External Project|2026-09-01|2025-09-01|unknown|||Created|Max Liu
+1141|sem|PHA|2D-C|PHA2554223-001|Yonex-ATP互动机|付 欢|尤尼克斯（上海）体育用品有限公司|YONEX劳力士大师赛 H5 互动设计|2025-07-23 09:28:11|Brand Strategy/Activation 品牌活动|Project/ External Project|2025-10-20|2025-09-29|unknown|||InProgress|Max Liu
+1142|she|SE|3D-A|SE2553358-001|2507咪咕VR展厅|葛 伟杰|上海曜境互联网信息技术有限公司|惠州咪咕VR空间设计需求|2025-07-23 10:39:08|Retail/Showroom 零售店/展厅|Project/ External Project|2026-09-01|2025-09-01|unknown|||SClosed|Max Liu
 1143|she|SE|2D-C|SE2450395-001|2504批格兰父子橱窗&酒柜制作|葛 伟杰|格兰父子洋酒贸易（上海）有限公司|东莞金叶桥头店海报设计|2025-07-23 10:42:05|Consumer Event Venue Service 活动场地服务|Project/ External Project|2025-05-31|2025-04-01|unknown|||PSCompl|Max Liu
 1144|she|SE|2D-C|SE2451042-001|2505批格兰父子橱窗&酒柜制作|葛 伟杰|格兰父子洋酒贸易（上海）有限公司|悦通汇酒业海报设计|2025-07-23 10:44:14|Consumer Event Venue Service 活动场地服务|Project/ External Project|2025-06-30|2025-05-01|unknown|||PSCompl|Max Liu
-1145|she|SE|2D-C|SE2451046-001|格兰父子2025年6月品鉴会执行|葛 伟杰|格兰父子洋酒贸易（上海）有限公司|MS、GF12、GF15、GF18 画框设计 1|2025-07-23 10:45:39|Consumer Event Venue Service 活动场地服务|Project/ External Project|2025-06-30|2025-06-01|Closed Won|411847.1000|RMB|SClosed|Max Liu
-1146|she|SE|2D-C|SE2451046-001|格兰父子2025年6月品鉴会执行|葛 伟杰|格兰父子洋酒贸易（上海）有限公司|客调酒单设计|2025-07-23 10:46:29|Consumer Event Venue Service 活动场地服务|Project/ External Project|2025-06-30|2025-06-01|Closed Won|411847.1000|RMB|SClosed|Max Liu
-1147|she|SE|2D-C|SE2556635-001|2506 MS Party|葛 伟杰|格兰父子洋酒贸易（上海）有限公司|touch club海报设计|2025-07-23 10:47:30|Consumer Event Venue Service 活动场地服务|Project/ External Project|2025-06-30|2025-06-06|unknown|||SClosed|Max Liu
+1145|she|SE|2D-C|SE2451046-001|格兰父子2025年6月品鉴会执行|葛 伟杰|格兰父子洋酒贸易（上海）有限公司|MS、GF12、GF15、GF18 画框设计 1|2025-07-23 10:45:39|Consumer Event Venue Service 活动场地服务|Project/ External Project|2025-06-30|2025-06-01|unknown|||SClosed|Max Liu
+1146|she|SE|2D-C|SE2451046-001|格兰父子2025年6月品鉴会执行|葛 伟杰|格兰父子洋酒贸易（上海）有限公司|客调酒单设计|2025-07-23 10:46:29|Consumer Event Venue Service 活动场地服务|Project/ External Project|2025-06-30|2025-06-01|unknown|||SClosed|Max Liu
+1147|she|SE|2D-C|SE2556635-001|2506 MS Party|葛 伟杰|格兰父子洋酒贸易（上海）有限公司|touch club海报设计|2025-07-23 10:47:30|Consumer Event Venue Service 活动场地服务|Project/ External Project|2025-06-30|2025-06-06|unknown|||PSCompl|Max Liu
 1153|she|SE|2D-C|SE2553023-001|格兰父子2025年7月品鉴会执行|葛 伟杰|格兰父子洋酒贸易（上海）有限公司|8月客调海报设计|2025-07-23 13:48:53|Consumer Event Venue Service 活动场地服务|Project/ External Project|2025-07-31|2025-07-01|unknown|||SClosed|Max Liu
-1154|she|SO|2D-C|SO2553125-999|2025格兰菲迪王中王博饼晚宴|车 经纬|格兰父子洋酒贸易（上海）有限公司|博饼大会设计|2025-07-24 11:14:15|Brand Strategy/Activation 品牌活动|#999 Project|2025-09-30|2025-09-05|Proposal|||Pitching|Max Liu
+1154|she|SO|2D-C|SO2553125-999|2025格兰菲迪王中王博饼晚宴|车 经纬|格兰父子洋酒贸易（上海）有限公司|博饼大会设计|2025-07-24 11:14:15|Brand Strategy/Activation 品牌活动|#999 Project|2025-09-30|2025-09-05|unknown|||Pitching|Max Liu
 1163|she|SE|2D-C|SE2553023-001|格兰父子2025年7月品鉴会执行|葛 伟杰|格兰父子洋酒贸易（上海）有限公司|8月客调海报设计|2025-07-24 16:17:29|Consumer Event Venue Service 活动场地服务|Project/ External Project|2025-07-31|2025-07-01|unknown|||SClosed|Max Liu
 1199|she|SW|Planner|Generic-SW|Generic-SW||Generic Customer|北京煤炭展|2025-07-28 10:11:01|(GEN) INSURANCE管理费用/行政管理费/保险费||||unknown||||Max Liu
-1202|she|SE|CAD-Porject|SE2553358-001|2507咪咕VR展厅|葛 伟杰|上海曜境互联网信息技术有限公司|惠州咪咕VR空间cad设计需求  |2025-07-28 10:34:56|Retail/Showroom 零售店/展厅|Project/ External Project|2026-09-01|2025-09-01|unknown|||Created|Max Liu
-1203|she|SE|2D-C|SE2553358-001|2507咪咕VR展厅|葛 伟杰|上海曜境互联网信息技术有限公司|惠州咪咕VR空间平面设计需求 |2025-07-28 10:35:57|Retail/Showroom 零售店/展厅|Project/ External Project|2026-09-01|2025-09-01|unknown|||Created|Max Liu
-1204|she|SE|2D-C|SE2553358-001|2507咪咕VR展厅|葛 伟杰|上海曜境互联网信息技术有限公司|南宁咪咕VR空间平面设计需求|2025-07-28 10:36:29|Retail/Showroom 零售店/展厅|Project/ External Project|2026-09-01|2025-09-01|unknown|||Created|Max Liu
+1202|she|SE|CAD-Porject|SE2553358-001|2507咪咕VR展厅|葛 伟杰|上海曜境互联网信息技术有限公司|惠州咪咕VR空间cad设计需求  |2025-07-28 10:34:56|Retail/Showroom 零售店/展厅|Project/ External Project|2026-09-01|2025-09-01|unknown|||SClosed|Max Liu
+1203|she|SE|2D-C|SE2553358-001|2507咪咕VR展厅|葛 伟杰|上海曜境互联网信息技术有限公司|惠州咪咕VR空间平面设计需求 |2025-07-28 10:35:57|Retail/Showroom 零售店/展厅|Project/ External Project|2026-09-01|2025-09-01|unknown|||SClosed|Max Liu
+1204|she|SE|2D-C|SE2553358-001|2507咪咕VR展厅|葛 伟杰|上海曜境互联网信息技术有限公司|南宁咪咕VR空间平面设计需求|2025-07-28 10:36:29|Retail/Showroom 零售店/展厅|Project/ External Project|2026-09-01|2025-09-01|unknown|||SClosed|Max Liu
 1205|she|SE|3D-A|SE2553022-001|2507批格兰父子橱窗&酒柜制作|葛 伟杰|格兰父子洋酒贸易（上海）有限公司|树兴名酒 -测量报告|2025-07-28 10:37:52|Retail/Showroom 零售店/展厅|Project/ External Project|2025-08-31|2025-07-01|unknown|||SClosed|Max Liu
 1207|sem|PHA|2D-C|PHA2552865-001|Yonex-2025店铺互动屏|麻 丽杨|尤尼克斯（上海）体育用品有限公司|互动屏海报resize|2025-07-28 13:17:41|Trade Event Management 商业活动管理|Project/ External Project|2025-08-31|2025-04-21|unknown|||SClosed|Max Liu
 1208|she|SE|2D-C|SE2553022-001|2507批格兰父子橱窗&酒柜制作|葛 伟杰|格兰父子洋酒贸易（上海）有限公司|GF&BV海报设计|2025-07-28 13:44:30|Retail/Showroom 零售店/展厅|Project/ External Project|2025-08-31|2025-07-01|unknown|||SClosed|Max Liu
 1214|she|ST|ST|ST2450470-001|第二十七届亚洲宠物展览会|沈 光宇|上海万耀亚宠展览有限公司|亚宠展2025 大会设计|2025-07-28 16:26:06|Hall Facilities Management 展馆设施管理|Project/ External Project|2025-08-24|2025-08-20|unknown|||SClosed|Summer Xia
 1215|she|ST|ST|ST2450471-001|2025时尚家居生活展|沈 光宇|法兰克福展览（深圳）有限公司|ILC大会设计以及升级标摊|2025-07-28 16:28:01|Hall Facilities Management 展馆设施管理|Project/ External Project|2025-09-14|2025-09-12|unknown|||Created|Summer Xia
-1255|she|SO|3D-B|SO2559238-999|KCW@AMS2025|吴 妙巧|Kian Chue Hwa (Industries) Pte Ltd|展台设计|2025-07-30 15:26:11|Special Design|#999 Project|2025-11-29|2025-11-26|Proposal|||Pitching|Max Liu
+1255|she|SO|3D-B|SO2559238-999|KCW@AMS2025|吴 妙巧|Kian Chue Hwa (Industries) Pte Ltd|展台设计|2025-07-30 15:26:11|Special Design|#999 Project|2025-11-29|2025-11-26|unknown|||Pitching|Max Liu
 1272|sem|PHC|2D-C|PHC2553430-001|Smith-大学生创业大会|孙 卓鸣|A.E. Smith Brand Management (Shanghai) Co. Ltd.|啤酒节平面设计|2025-07-31 10:41:37|Trade Event Management 商业活动管理|Project/ External Project|2025-12-31|2025-06-18|unknown|||SClosed|Max Liu
 1302|she|IH|3D-B|IH2559333-001|联影-CR expo|陶 晨|上海联影医疗科技股份有限公司|联影福祉会|2025-08-01 17:05:13|Special Design|Project/ External Project|2025-09-14|2025-09-12|unknown|||InProgress|Max Liu
 1303|she|IH|Planner|IH2559333-001|联影-CR expo|陶 晨|上海联影医疗科技股份有限公司|联影福祉会|2025-08-01 17:05:13|Special Design|Project/ External Project|2025-09-14|2025-09-12|unknown|||InProgress|Max Liu
 1306|sem|PH|3D-B|Generic-PH|Generic-PH||Generic Customer|Rolex@25 RSM|2025-08-01 17:37:47|(GEN)PRINTING 管理费用/办公费用/印刷费||||unknown||||Max Liu
-1329|she|ST|ST|ST2450657-001|Music China 2025|陈 虔来|Messe Frankfurt 法兰克福展览（上海）有限公司|乐器展展馆技术平面图|2025-08-04 13:48:42|Exhibitor Services  Rental  Technical & Safety 参展商服务、租赁、技术和安全|Project/ External Project|2025-10-25|2025-10-22|Closed Won|||Created|Summer Xia
+1329|she|ST|ST|ST2450657-001|Music China 2025|陈 虔来|Messe Frankfurt 法兰克福展览（上海）有限公司|乐器展展馆技术平面图|2025-08-04 13:48:42|Exhibitor Services  Rental  Technical & Safety 参展商服务、租赁、技术和安全|Project/ External Project|2025-10-25|2025-10-22|unknown|||Created|Summer Xia
 1333|she|ST|ST|ST2450644-001|中国国际橡胶展 2025|陈 虔来|中联橡胶股份有限公司|2025 弹性体论坛星河湾酒店设计方案|2025-08-04 15:21:31|Exhibitor Services  Rental  Technical & Safety 参展商服务、租赁、技术和安全|Project/ External Project|2025-09-19|2025-09-17|unknown|||InProgress|Summer Xia
 1344|sem|PHC|3D-B|PHC2556962-999|SKF-海事展|孙 卓鸣|斯凯孚（中国）有限公司|SKF-海事展|2025-08-04 17:18:56|Special Design|#999 Project|2025-12-05|2025-12-02|Nurturing|0.0000||Pitching|Max Liu
 1345|sem|PHE|3D-B|PHE2333983-001|良信-超级工厂模块化设计费|陶 晨|良信电器（海盐）有限公司|良信-超级工厂模块化设计费|2025-08-04 17:24:31|Retail/Showroom 零售店/展厅|Project/ External Project|2025-07-31|2024-08-21|Closed Won|339622.3400|CNY|SClosed|Max Liu
@@ -102,9 +102,9 @@ BriefID|OfficeID|ProjectTeamCode|TeamCode|ProjectID|ProjectName|SIC|Customer|Bri
 1349|sem|PHE|2D-C|PHE2557869-001|良信-增项设计 2025|陶 晨|良信电器（海盐）有限公司|良信-增项设计2025之检测中心&智能配电|2025-08-04 17:26:41|Special Design|Project/ External Project|2026-09-30|2025-08-20|unknown|||SClosed|Max Liu
 1350|sem|PHE|CAD-Porject|PHE2557869-001|良信-增项设计 2025|陶 晨|良信电器（海盐）有限公司|良信-增项设计2025之检测中心&智能配电|2025-08-04 17:26:41|Special Design|Project/ External Project|2026-09-30|2025-08-20|unknown|||SClosed|Max Liu
 1351|she|SW|3D-B|Generic-SW|Generic-SW||Generic Customer|LAIFE|2025-08-04 20:03:53|(GEN) INSURANCE管理费用/行政管理费/保险费||||unknown||||Max Liu
-1352|she|SO|2D-C|SO2559139-999|Grand Opening Ceremony of Maersk Shanghai Lin-Gang Flagship|车 经纬|A.P.穆勒-马士基集团|Grand Opening Ceremony of Maersk Shanghai Lin-Gang Flagship|2025-08-05 10:34:10|Corporate Event|#999 Project|2025-11-20|2025-11-20|Proposal|||Pitching|Max Liu
-1358|she|SO|Planner|SO2558976-999|2025海立销售大会|吴 妙巧|上海海立电器有限公司|2025海立销售大会|2025-08-05 13:24:01|Corporate Event|#999 Project|2025-09-05|2025-09-03|Proposal|||Pitching|Max Liu
-1359|she|ST|ST|ST2450448-001|2025亚洲国际鲜果生蔬展览会|才 兴华|广州市伯林展览有限公司|大会设施方案设计|2025-08-05 13:49:48|Hall Facilities Management,Organizer Requirements|Project/ External Project|2025-09-09|2025-09-08|unknown|||InProgress|Summer Xia
+1352|she|SO|2D-C|SO2559139-999|Grand Opening Ceremony of Maersk Shanghai Lin-Gang Flagship|车 经纬|A.P.穆勒-马士基集团|Grand Opening Ceremony of Maersk Shanghai Lin-Gang Flagship|2025-08-05 10:34:10|Corporate Event|#999 Project|2025-11-20|2025-11-20|unknown|||Pitching|Max Liu
+1358|she|SO|Planner|SO2558976-999|2025海立销售大会|吴 妙巧|上海海立电器有限公司|2025海立销售大会|2025-08-05 13:24:01|Corporate Event|#999 Project|2025-09-05|2025-09-03|unknown|||Pitching|Max Liu
+1359|she|ST|ST|ST2450448-001|2025亚洲国际鲜果生蔬展览会|才 兴华|广州市伯林展览有限公司|大会设施方案设计|2025-08-05 13:49:48|Hall Facilities Management,Organizer Requirements|Project/ External Project|2025-09-09|2025-09-08|unknown|||SClosed|Summer Xia
 1360|sem|PHC|Planner|PHC2559430-999|科思创-珠海工厂开业典礼|孙 卓鸣|科思创（上海）投资有限公司|科思创开业典礼及晚宴策划方案|2025-08-05 14:33:19|Trade Event Management 商业活动管理|#999 Project|2026-01-30|2026-01-28|Nurturing|||Pitching|Max Liu
 1361|sem|PHC|2D-C|PHC2559430-999|科思创-珠海工厂开业典礼|孙 卓鸣|科思创（上海）投资有限公司|科思创开业典礼及晚宴KV及延展|2025-08-05 14:34:41|Trade Event Management 商业活动管理|#999 Project|2026-01-30|2026-01-28|Nurturing|||Pitching|Max Liu
 1362|sem|PHC|3D-A|PHC2559430-999|科思创-珠海工厂开业典礼|孙 卓鸣|科思创（上海）投资有限公司|科思创开业典礼及晚宴3D效果|2025-08-05 14:35:38|Trade Event Management 商业活动管理|#999 Project|2026-01-30|2026-01-28|Nurturing|||Pitching|Max Liu
@@ -114,13 +114,13 @@ BriefID|OfficeID|ProjectTeamCode|TeamCode|ProjectID|ProjectName|SIC|Customer|Bri
 1367|sem|PHA|2D-C|PHA2556967-001|GITI-合肥工厂开幕|赵 春华|佳通轮胎（中国）投资有限公司|佳通合肥新工厂开业活动KV及延展设计|2025-08-06 11:37:10|Trade Event Management 商业活动管理|Project/ External Project|2025-10-19|2025-10-18|Closed Won|955208.4000|RMB|InProgress|Max Liu
 1368|sem|PHA|2D-C|PHA2552865-001|Yonex-2025店铺互动屏|麻 丽杨|尤尼克斯（上海）体育用品有限公司|Yonex互动屏秋冬服装目录resize|2025-08-06 11:38:02|Trade Event Management 商业活动管理|Project/ External Project|2025-08-31|2025-04-21|unknown|||SClosed|Max Liu
 1369|sem|PHA|3D-B|PHA2556967-001|GITI-合肥工厂开幕|赵 春华|佳通轮胎（中国）投资有限公司|佳通合肥工厂开业活动3D设计修改|2025-08-06 11:43:03|Trade Event Management 商业活动管理|Project/ External Project|2025-10-19|2025-10-18|Closed Won|955208.4000|RMB|InProgress|Max Liu
-1376|she|SO|Planner|SO2558986-999|CIIE2025|车 经纬|Singapore Business Federation-55|CIIE|2025-08-06 13:57:48|Special Design|#999 Project|2025-11-10|2025-11-05|Closed Won|0.0000||Pitching|Max Liu
-1377|she|SO|2D-C|SO2558986-999|CIIE2025|车 经纬|Singapore Business Federation-55|CIIE|2025-08-06 13:57:48|Special Design|#999 Project|2025-11-10|2025-11-05|Closed Won|0.0000||Pitching|Max Liu
-1399|she|SO|Planner|SO2559139-999|Grand Opening Ceremony of Maersk Shanghai Lin-Gang Flagship|车 经纬|A.P.穆勒-马士基集团|活动策划及设计|2025-08-06 15:07:29|Corporate Event|#999 Project|2025-11-20|2025-11-20|Proposal|||Pitching|Max Liu
-1400|she|SO|3D-A|SO2559139-999|Grand Opening Ceremony of Maersk Shanghai Lin-Gang Flagship|车 经纬|A.P.穆勒-马士基集团|活动策划及设计|2025-08-06 15:07:29|Corporate Event|#999 Project|2025-11-20|2025-11-20|Proposal|||Pitching|Max Liu
-1401|she|ST|ST|ST2450657-001|Music China 2025|陈 虔来|Messe Frankfurt 法兰克福展览（上海）有限公司|英国馆出图|2025-08-06 15:47:40|Exhibitor Services  Rental  Technical & Safety 参展商服务、租赁、技术和安全|Project/ External Project|2025-10-25|2025-10-22|Closed Won|||Created|Summer Xia
+1376|she|SO|Planner|SO2558986-999|CIIE2025|车 经纬|Singapore Business Federation-55|CIIE|2025-08-06 13:57:48|Special Design|#999 Project|2025-11-10|2025-11-05|unknown|||Pitching|Max Liu
+1377|she|SO|2D-C|SO2558986-999|CIIE2025|车 经纬|Singapore Business Federation-55|CIIE|2025-08-06 13:57:48|Special Design|#999 Project|2025-11-10|2025-11-05|unknown|||Pitching|Max Liu
+1399|she|SO|Planner|SO2559139-999|Grand Opening Ceremony of Maersk Shanghai Lin-Gang Flagship|车 经纬|A.P.穆勒-马士基集团|活动策划及设计|2025-08-06 15:07:29|Corporate Event|#999 Project|2025-11-20|2025-11-20|unknown|||Pitching|Max Liu
+1400|she|SO|3D-A|SO2559139-999|Grand Opening Ceremony of Maersk Shanghai Lin-Gang Flagship|车 经纬|A.P.穆勒-马士基集团|活动策划及设计|2025-08-06 15:07:29|Corporate Event|#999 Project|2025-11-20|2025-11-20|unknown|||Pitching|Max Liu
+1401|she|ST|ST|ST2450657-001|Music China 2025|陈 虔来|Messe Frankfurt 法兰克福展览（上海）有限公司|英国馆出图|2025-08-06 15:47:40|Exhibitor Services  Rental  Technical & Safety 参展商服务、租赁、技术和安全|Project/ External Project|2025-10-25|2025-10-22|unknown|||Created|Summer Xia
 1421|she|ST|ST|ST2450644-001|中国国际橡胶展 2025|陈 虔来|中联橡胶股份有限公司|橡胶展CAD平面图|2025-08-07 15:23:56|Exhibitor Services, Rental, Technical & Safety,Hall Facilities Management,Organizer Requirements,Shell Scheme,Special Design|Project/ External Project|2025-09-19|2025-09-17|unknown|||InProgress|Summer Xia
-1424|she|ST|ST|ST2558783-001|法兰克福-AMS 2025|张 旋|Messe Frankfurt 法兰克福展览（上海）有限公司|AMS展CAD平面图|2025-08-07 15:48:14|Exhibitor Services  Rental  Technical & Safety 参展商服务、租赁、技术和安全|Project/ External Project|2025-11-29|2025-11-26|Closed Won|||Created|Summer Xia
+1424|she|ST|ST|ST2558783-001|法兰克福-AMS 2025|张 旋|Messe Frankfurt 法兰克福展览（上海）有限公司|AMS展CAD平面图|2025-08-07 15:48:14|Exhibitor Services  Rental  Technical & Safety 参展商服务、租赁、技术和安全|Project/ External Project|2025-11-29|2025-11-26|unknown|||Created|Summer Xia
 1426|sem|PHF|3D-B|PHF2557028-001|brembo-重庆摩展|袁 静燕|青岛布雷博贸易有限公司|Brembo@CIMA|2025-08-08 10:21:28|Special Design|Project/ External Project|2025-09-22|2025-09-19|Closed Won|0.0000||InProgress|Max Liu
 1427|sem|PHF|Planner|PHF2557028-001|brembo-重庆摩展|袁 静燕|青岛布雷博贸易有限公司|Brembo@CIMA|2025-08-08 10:21:28|Special Design|Project/ External Project|2025-09-22|2025-09-19|Closed Won|0.0000||InProgress|Max Liu
 1428|sem|PHF|CAD-Porject|PHF2557028-001|brembo-重庆摩展|袁 静燕|青岛布雷博贸易有限公司|Brembo@CIMA|2025-08-08 10:21:28|Special Design|Project/ External Project|2025-09-22|2025-09-19|Closed Won|0.0000||InProgress|Max Liu
@@ -129,9 +129,9 @@ BriefID|OfficeID|ProjectTeamCode|TeamCode|ProjectID|ProjectName|SIC|Customer|Bri
 1439|sem|PHA|2D-C|PHA2552865-001|Yonex-2025店铺互动屏|麻 丽杨|尤尼克斯（上海）体育用品有限公司|互动屏球员海报resize|2025-08-08 16:00:56|Trade Event Management 商业活动管理|Project/ External Project|2025-08-31|2025-04-21|unknown|||SClosed|Max Liu
 1441|she|IH|CAD-Porject|IH2559333-001|联影-CR expo|陶 晨|上海联影医疗科技股份有限公司|联影福祉会|2025-08-11 07:48:35|Special Design|Project/ External Project|2025-09-14|2025-09-12|unknown|||InProgress|Max Liu
 1442|she|SW|3D-B|Generic-SW|Generic-SW||Generic Customer|JRC@海事展 2025|2025-08-11 13:03:17|(GEN) INSURANCE管理费用/行政管理费/保险费||||unknown||||Max Liu
-1476|she|SE|3D-A|SE2559029-001|2508 MS Party|葛 伟杰|格兰父子洋酒贸易（上海）有限公司|拾叁唐Live Show（汕头店）MS Party |2025-08-12 15:08:46|Consumer Event Venue Service 活动场地服务|Project/ External Project|2025-08-31|2025-08-01|unknown|||SClosed|Max Liu
+1476|she|SE|3D-A|SE2559029-001|2508 MS Party|葛 伟杰|格兰父子洋酒贸易（上海）有限公司|拾叁唐Live Show（汕头店）MS Party |2025-08-12 15:08:46|Consumer Event Venue Service 活动场地服务|Project/ External Project|2025-08-31|2025-08-01|Closed Won|61586.0000|RMB|SClosed|Max Liu
 1477|sem|PHC|3D-A|PHC2558988-001|贝克休斯-CIIE 2025|孙 卓鸣|贝克休斯石油天然气设备（北京）有限公司|贝克休斯进博会展台效果设计|2025-08-12 15:34:55|Special Design|Project/ External Project|2025-11-10|2025-11-05|unknown|||InProgress|Max Liu
-1478|she|SO|CAD-Porject|SO2558976-999|2025海立销售大会|吴 妙巧|上海海立电器有限公司|2025海立销售大会|2025-08-12 16:45:18|Corporate Event|#999 Project|2025-09-05|2025-09-03|Proposal|||Pitching|Max Liu
+1478|she|SO|CAD-Porject|SO2558976-999|2025海立销售大会|吴 妙巧|上海海立电器有限公司|2025海立销售大会|2025-08-12 16:45:18|Corporate Event|#999 Project|2025-09-05|2025-09-03|unknown|||Pitching|Max Liu
 1481|she|SO|CAD-Porject|SO2553131-001|2025秋季面料展 - 可持续发展区|吴 妙巧|法兰克福展览（深圳）有限公司|cad图纸|2025-08-13 10:34:04|Special Design|Project/ External Project|2025-09-04|2025-09-02|unknown|||SClosed|Max Liu
 1489|sem|PHB|3D-B|PHB2558990-999|中化-CIIE 2025|龚 慧钦|中国中化控股有限责任公司|埃肯&克劳斯玛菲2025CIIE|2025-08-14 12:19:30|Special Design|#999 Project|2025-11-10|2025-11-05|Closed Lost|0.0000||Pitching|Max Liu
 1490|sem|PHB|Planner|PHB2558990-999|中化-CIIE 2025|龚 慧钦|中国中化控股有限责任公司|埃肯&克劳斯玛菲2025CIIE|2025-08-14 12:19:31|Special Design|#999 Project|2025-11-10|2025-11-05|Closed Lost|0.0000||Pitching|Max Liu
@@ -155,11 +155,12 @@ BriefID|OfficeID|ProjectTeamCode|TeamCode|ProjectID|ProjectName|SIC|Customer|Bri
 1615|she|ST|ST|ST2450644-001|中国国际橡胶展 2025|陈 虔来|中联橡胶股份有限公司|橡胶展大会需求|2025-08-20 10:15:00|Exhibitor Services, Rental, Technical & Safety,Hall Facilities Management,Organizer Requirements,Shell Scheme,Special Design|Project/ External Project|2025-09-19|2025-09-17|unknown|||InProgress|Summer Xia
 1616|she|SE|2D-C|SE2553027-001|2508批格兰父子橱窗&酒柜制作|葛 伟杰|格兰父子洋酒贸易（上海）有限公司|海报设计|2025-08-20 13:18:14|Retail/Showroom 零售店/展厅|Project/ External Project|2025-09-30|2025-08-01|unknown|||SClosed|Max Liu
 1629|sem|PHA|2D-C|PHA2552224-999|Yonex-2025大篷车|赵 春华|尤尼克斯（上海）体育用品有限公司|Yonex羽毛球快闪平面设计|2025-08-20 15:50:10|Trade Event Management 商业活动管理|#999 Project|2025-10-31|2025-09-26|Negotiation|0.0000||Pitching|Max Liu
-1675|she|SO|Planner|SO2560021-999|NEXT Shanghai Event 2026|车 经纬|英特乐传送带（上海）有限公司|系统上发设计|2025-08-21 16:56:29|Trade Event Management 商业活动管理|#999 Project|2026-03-26|2026-03-25|Negotiation|0.0000||Pitching|Max Liu
-1720|she|SE|CAD-Porject|SE2559937-001|Hiwin@IAS 2025（制作部分）|葛 伟杰|上银科技（中国）有限公司|上银展机展示柜|2025-08-25 10:59:28|Special Design|Project/ External Project|2025-09-27|2025-09-23|Closed Won|0.0000||InProgress|Max Liu
-1773|she|SE|2D-C|SE2553358-001|2507咪咕VR展厅|葛 伟杰|上海曜境互联网信息技术有限公司|咪咕VR空间平面设计|2025-08-26 16:49:13|Retail/Showroom 零售店/展厅|Project/ External Project|2026-09-01|2025-09-01|unknown|||Created|Max Liu
-1785|she|SE|CAD-Porject|SE2553358-001|2507咪咕VR展厅|葛 伟杰|上海曜境互联网信息技术有限公司|河南鹤壁咪咕VR空间设计|2025-08-26 17:49:59|Retail/Showroom 零售店/展厅|Project/ External Project|2026-09-01|2025-09-01|unknown|||Created|Max Liu
-1850|sem|PHE|CAD-Porject|PHE2557290-001|德默菲-工厂开业活动|陶 晨|德默菲换热器(平湖)有限公司|德默菲-工厂开业活动|2025-08-29 10:35:44|Trade Event Management 商业活动管理|Project/ External Project|2025-10-31|2025-10-22|Closed Won|0.0000||Created|Max Liu
+1675|she|SO|Planner|SO2560021-999|NEXT Shanghai Event 2026|车 经纬|英特乐传送带（上海）有限公司|系统上发设计|2025-08-21 16:56:29|Trade Event Management 商业活动管理|#999 Project|2026-03-26|2026-03-25|unknown|||Pitching|Max Liu
+1720|she|SE|CAD-Porject|SE2559937-001|Hiwin@IAS 2025（制作部分）|葛 伟杰|上银科技（中国）有限公司|上银展机展示柜|2025-08-25 10:59:28|Special Design|Project/ External Project|2025-09-27|2025-09-23|Closed Won|236058.3800|RMB|InProgress|Max Liu
+1773|she|SE|2D-C|SE2553358-001|2507咪咕VR展厅|葛 伟杰|上海曜境互联网信息技术有限公司|咪咕VR空间平面设计|2025-08-26 16:49:13|Retail/Showroom 零售店/展厅|Project/ External Project|2026-09-01|2025-09-01|unknown|||SClosed|Max Liu
+1785|she|SE|CAD-Porject|SE2553358-001|2507咪咕VR展厅|葛 伟杰|上海曜境互联网信息技术有限公司|河南鹤壁咪咕VR空间设计|2025-08-26 17:49:59|Retail/Showroom 零售店/展厅|Project/ External Project|2026-09-01|2025-09-01|unknown|||SClosed|Max Liu
+1850|sem|PHE|CAD-Porject|PHE2557290-001|德默菲-工厂开业活动|陶 晨|德默菲换热器(平湖)有限公司|德默菲-工厂开业活动|2025-08-29 10:35:44|Trade Event Management 商业活动管理|Project/ External Project|2025-10-31|2025-10-22|unknown|||Quotation|Max Liu
 1863|she|SE|2D-C|SE2553027-001|2508批格兰父子橱窗&酒柜制作|葛 伟杰|格兰父子洋酒贸易（上海）有限公司|海报设计|2025-09-01 10:12:55|Retail/Showroom 零售店/展厅|Project/ External Project|2025-09-30|2025-08-01|unknown|||SClosed|Max Liu
 1874|sem|PHB|3D-A|PHB2559800-001|宝洁-香化展2025|龚 慧钦|广州宝洁有限公司|宝洁香化展|2025-09-01 12:50:22|Special Design|Project/ External Project|2025-09-27|2025-09-25|Closed Won|0.0000||Created|Max Liu
 1905|sem|PHA|2D-C|PHA2552865-001|Yonex-2025店铺互动屏|麻 丽杨|尤尼克斯（上海）体育用品有限公司|互动屏海报resize|2025-09-02 17:05:16|Trade Event Management 商业活动管理|Project/ External Project|2025-08-31|2025-04-21|unknown|||SClosed|Max Liu
+1917|she|SE|2D-C|SE2553027-001|2508批格兰父子橱窗&酒柜制作|葛 伟杰|格兰父子洋酒贸易（上海）有限公司|海报设计|2025-09-04 11:27:56|Retail/Showroom 零售店/展厅|Project/ External Project|2025-09-30|2025-08-01|unknown|||SClosed|Max Liu

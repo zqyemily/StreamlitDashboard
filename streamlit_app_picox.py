@@ -55,8 +55,9 @@ people = st.sidebar.multiselect('Select members', df['Analyst Name'].unique(), d
 
 
 filtered_df = df[df['Analyst Name'].isin(people)&(df['Date']>=date_range[0].strftime("%Y-%m-%d"))&(df['Date']<=date_range[1].strftime("%Y-%m-%d"))&(df['BU'].isin(BU)&df['Category'].isin(Category))]
-compare_first_date = date_range[0] - datetime.timedelta(days=7)
-compare_last_date = date_range[1] - datetime.timedelta(days=7)
+days_selected = (date_range[1] - date_range[0]).days + 1
+compare_first_date = date_range[0] - datetime.timedelta(days=days_selected)
+compare_last_date = date_range[1] - datetime.timedelta(days=days_selected)
 compare_df = df[df['Analyst Name'].isin(people)&(df['Date']>=compare_first_date.strftime("%Y-%m-%d"))&(df['Date']<=compare_last_date.strftime("%Y-%m-%d"))&(df['BU'].isin(BU)&df['Category'].isin(Category))]
 col1, col2, col3 ,col4, col5 = st.columns(5)
 col1.metric("Total Hours", f"{filtered_df['Hours'].sum():.2f} Hr",delta=f"{(filtered_df['Hours'].sum() - compare_df['Hours'].sum()):.2f} Hr")

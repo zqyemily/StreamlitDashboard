@@ -22,7 +22,7 @@ st.set_page_config(page_title='The Usage Dashboard of Pico Shanghai', layout='wi
 st.image('img/pico queue logo.png', width=300)
 st.title('The Usage Dashboard of Pico Shanghai')
 st.markdown(f'You logged in at {datetime.datetime.now(pytz.timezone("Asia/Shanghai")).strftime("%Y-%m-%d")}')
-st.markdown(f'The default data shown in this page are from last {last_monday_date.strftime("%Y-%m-%d")} to {last_friday_date.strftime("%Y-%m-%d")}')
+st.markdown(f'The default data shown in this page are from {last_monday_date.strftime("%Y-%m-%d")} to Friday {last_friday_date.strftime("%Y-%m-%d")}')
 def update_data():
     subprocess.run(["C:/Users/qiany/anaconda3/envs/stenv/python.exe", "data_downloader_designers.py"])
     df_claim = pd.read_csv('data/designer_claim_data.csv', encoding='utf-8', sep = "|")
@@ -44,6 +44,9 @@ div[data-testid="stMultiSelect"] [data-baseweb="select"] > div > div {
 }
 </style>
 ''')
+if last_friday_date > pd.Timestamp(pd.to_datetime(df_Brief['BriefCreationTime'].max())):
+    last_friday_date = pd.to_datetime(df_Brief['BriefCreationTime'].max())
+
 st.sidebar.title('Filters')
 date_range = st.sidebar.date_input('Select date range', 
     value=(last_monday_date, last_friday_date),
@@ -52,26 +55,28 @@ date_range = st.sidebar.date_input('Select date range',
     )
 Team_Leader = st.sidebar.multiselect('Select Team Leaders', df_Brief['Team_Leader'].unique(), default=df_Brief['Team_Leader'].unique())
 ProjectStatus = st.sidebar.multiselect('Select Project Bidding Status', df_Brief['BidStatus'].unique(), default=df_Brief['BidStatus'].unique())
-
+st.markdown(f'You selected date from {date_range[0].strftime("%Y-%m-%d")} to {date_range[1].strftime("%Y-%m-%d")}')
 
 
 
 filtered_df = df_Brief[df_Brief['Team_Leader'].isin(Team_Leader)&(df_Brief['BriefCreationTime']>=date_range[0].strftime("%Y-%m-%d"))&(df_Brief['BriefCreationTime']<=date_range[1].strftime("%Y-%m-%d"))&(df_Brief['BidStatus'].isin(ProjectStatus))]
-compare_first_date = date_range[0] - datetime.timedelta(days=7)
-compare_last_date = date_range[1] - datetime.timedelta(days=7)
+days_selected = (date_range[1] - date_range[0]).days + 1
+compare_first_date = date_range[0] - datetime.timedelta(days=days_selected)
+compare_last_date = date_range[1] - datetime.timedelta(days=days_selected)
 compare_df = df_Brief[df_Brief['Team_Leader'].isin(Team_Leader)&(df_Brief['BriefCreationTime']>=compare_first_date.strftime("%Y-%m-%d"))&(df_Brief['BriefCreationTime']<=compare_last_date.strftime("%Y-%m-%d"))&(df_Brief['BidStatus'].isin(ProjectStatus))]
 col1, col2, col3  = st.columns(3)
 col1.metric("Total Briefs", f"{filtered_df['BriefID'].nunique():.2f}",delta=f"{(filtered_df['BriefID'].nunique() - compare_df['BriefID'].nunique()):.2f}")
 col2.metric("Total Projects", f"{filtered_df['ProjectID'].nunique():.2f}", delta=f"{(filtered_df['ProjectID'].nunique() - compare_df['ProjectID'].nunique()):.2f}")
 temp = filtered_df[['ProjectID','BidStatus','BidAmount']].drop_duplicates()
 compare_temp = compare_df[['ProjectID','BidStatus','BidAmount']].drop_duplicates()
-col3.metric("Total Projects Actual Receivable", f"{temp['BidAmount'].sum():.2f} RMB",delta=f"{(temp['BidAmount'].sum() - compare_temp['BidAmount'].sum()):.2f} RMB")
+col3.metric("Total Projects Actual Receivable", f"{temp['BidAmount'].sum():,.2f} RMB",delta=f"{(temp['BidAmount'].sum() - compare_temp['BidAmount'].sum()):,.2f} RMB")
 
 col1, col2, col3 = st.columns(3)
 fig1 = px.pie(filtered_df.groupby(['BidStatus'])[['ProjectID']].nunique().reset_index(), values='ProjectID', names='BidStatus', title='Project Bidding Status')
+fig1.update_layout(legend={'x':0,'y':0,'orientation':'h'}) 
 col1.plotly_chart(fig1, use_container_width=True)
 fig2 = px.pie(filtered_df.groupby(['ProjectNature'])[['ProjectID']].nunique().reset_index(), values='ProjectID', names='ProjectNature', title='Project Nature Distribution')
-fig2.update_traces(showlegend=False)
+fig2.update_layout(legend={'x':0,'y':0,'orientation':'h'}) 
 col2.plotly_chart(fig2, use_container_width=True)
 fig3 = px.bar(filtered_df.groupby(['Team_Leader'])[['ProjectID']].nunique().reset_index(), x='Team_Leader', y='ProjectID', title='Bar Chart of Project counts by Team Leader')
 col3.plotly_chart(fig3, use_container_width=True)
@@ -79,8 +84,8 @@ col3.plotly_chart(fig3, use_container_width=True)
 temp1 = filtered_df[['ProjectID','Customer','BidStatus','BidAmount']].drop_duplicates()
 col1, col2 = st.columns(2)
 temp1 = filtered_df.groupby(['Customer'])[['ProjectID','BidAmount']].agg({'ProjectID':'nunique','BidAmount':'sum'}).reset_index().sort_values(by='ProjectID', ascending=False).rename(columns={'ProjectID':'Project Counts'})
-col1.write(temp1[['Customer', 'Project Counts']].head(10).reset_index(drop=True).style.set_caption('Top 10 Customers by Project Counts'), use_container_width=True)
-col2.write(temp1[['Customer', 'BidAmount']].sort_values(by='BidAmount', ascending=False).head(10).reset_index(drop=True).style.format({'BidAmount':'{:.2f} RMB'}).set_caption('Top 20 Customers by Project Actual Receivable Amounts'), use_container_width=True)
+col1.write(temp1[['Customer', 'Project Counts']].head(10).reset_index(drop=True).style.set_caption('Top 10 Customers by Project Counts'))
+col2.write(temp1[['Customer', 'BidAmount']].sort_values(by='BidAmount', ascending=False).head(10).reset_index(drop=True).style.format({'BidAmount':'{:,.2f} RMB'}).set_caption('Top 20 Customers by Project Actual Receivable Amounts'))
 st.markdown('Brief Details')
 st.write(filtered_df)
 
